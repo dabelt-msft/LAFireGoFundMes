@@ -38,7 +38,8 @@ const Home: NextPage = () => {
           <p className="text-gray-600 text-center mb-6">
             This site provides a list of GoFundMe campaigns obtained from the
             Eaten Fire Linktree page, sorted and organized so you can easily see
-            how far each campaign is from it's goal.
+            how far each campaign is from it's goal and which campaigns need the
+            most help.
           </p>
           <div className="text-center mb-6">
             <p className="text-gray-600">
