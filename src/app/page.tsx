@@ -1,101 +1,133 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+// pages/index.tsx
+import React, { useState } from "react";
+import type { NextPage } from "next";
+// If you have an external JSON file, uncomment the line below
+// import gofundmeData from '../data/gofundmeData.json';
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
-  );
+interface Campaign {
+  title: string;
+  url: string;
+  amount_raised: number;
+  goal: number;
+  difference_from_goal: number;
 }
+
+const Home: NextPage = () => {
+  // For demo, let's inline the data here:
+  const initialData: Campaign[] = [
+    {
+      title: "Campaign A",
+      url: "https://www.gofundme.com/campaignA",
+      amount_raised: 100,
+      goal: 1000,
+      difference_from_goal: 900,
+    },
+    {
+      title: "Campaign B",
+      url: "https://www.gofundme.com/campaignB",
+      amount_raised: 250,
+      goal: 500,
+      difference_from_goal: 250,
+    },
+    {
+      title: "Campaign C",
+      url: "https://www.gofundme.com/campaignC",
+      amount_raised: 3000,
+      goal: 5000,
+      difference_from_goal: 2000,
+    },
+  ];
+
+  // If using external JSON, you might do:
+  // const initialData: Campaign[] = gofundmeData;
+
+  // Keep campaigns in state
+  const [campaigns, setCampaigns] = useState<Campaign[]>(initialData);
+
+  // Sort campaigns by a particular property and direction
+  const sortCampaigns = (property: keyof Campaign, ascending: boolean) => {
+    const sorted = [...campaigns].sort((a, b) => {
+      if (a[property] < b[property]) return ascending ? -1 : 1;
+      if (a[property] > b[property]) return ascending ? 1 : -1;
+      return 0;
+    });
+    setCampaigns(sorted);
+  };
+
+  return (
+    <main className="min-h-screen bg-gray-100 p-8">
+      <div className="max-w-3xl mx-auto bg-white p-6 rounded shadow">
+        <h1 className="text-2xl font-bold mb-4 text-center">
+          GoFundMe Campaigns
+        </h1>
+
+        {/* Buttons for sorting */}
+        <div className="flex flex-col md:flex-row gap-2 mb-6 justify-center">
+          {/* Sort by amount_raised ascending */}
+          <button
+            className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
+            onClick={() => sortCampaigns("amount_raised", true)}
+          >
+            Sort by Raised (Asc)
+          </button>
+
+          {/* Sort by amount_raised descending */}
+          <button
+            className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
+            onClick={() => sortCampaigns("amount_raised", false)}
+          >
+            Sort by Raised (Desc)
+          </button>
+
+          {/* Sort by difference_from_goal ascending */}
+          <button
+            className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
+            onClick={() => sortCampaigns("difference_from_goal", true)}
+          >
+            Sort by Difference (Asc)
+          </button>
+
+          {/* Sort by difference_from_goal descending */}
+          <button
+            className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
+            onClick={() => sortCampaigns("difference_from_goal", false)}
+          >
+            Sort by Difference (Desc)
+          </button>
+        </div>
+
+        {/* Campaigns list */}
+        <ul className="space-y-4">
+          {campaigns.map((campaign, index) => (
+            <li key={index} className="p-4 border rounded shadow-sm">
+              <h2 className="text-xl font-semibold mb-1">{campaign.title}</h2>
+              <p className="mb-1">
+                <strong>Raised:</strong> $
+                {campaign.amount_raised.toLocaleString()}{" "}
+                <span className="text-gray-500">
+                  (Goal: ${campaign.goal.toLocaleString()})
+                </span>
+              </p>
+              <p className="mb-2">
+                <strong>Difference from Goal:</strong>{" "}
+                {campaign.difference_from_goal.toLocaleString()}
+              </p>
+              <a
+                href={campaign.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                View Campaign
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </main>
+  );
+};
+
+export default Home;
