@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import type { NextPage } from "next";
 import initialData from "../data/gofundme-data.json";
+import Link from "next/link";
 
 interface Campaign {
   title: string;
@@ -32,8 +33,25 @@ const Home: NextPage = () => {
       <main className="max-w-3xl mx-auto p-6 pb-24">
         <div className="bg-white p-6 rounded shadow">
           <h1 className="text-2xl font-bold mb-4 text-center">
-            GoFundMe Campaigns
+            Los Angeles Eaton Fire Go Fund Me Campaigns
           </h1>
+          <p className="text-gray-600 text-center mb-6">
+            This site provides a list of GoFundMe campaigns obtained from the
+            Eaten Fire Linktree page, sorted and organized so you can easily see
+            how far each campaign is from it's goal.
+          </p>
+          <div className="text-center mb-6">
+            <p className="text-gray-600">
+              If you don't see your campaign below, please make sure it is added
+              to the Linktree page here:{" "}
+            </p>
+            <button className="text-center mb-6 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              <Link href="https://linktr.ee/eatonfire?utm_source=linktree_profile_share&ltsid=1652c953-a469-4d55-931c-25ebd67231ee&fbclid=PAZXh0bgNhZW0CMTEAAaa7BAJRJtS6fb35--dQ1kclRbliWmUxczd_La-1HtOscRxMqOxm4B_G24o_aem_ht5RCsLH3IwSQrZJmI7UZQ">
+                LinkTree Page
+              </Link>
+            </button>
+          </div>
+
           {/* Sorting buttons */}
           <div className="flex flex-col md:flex-row gap-2 mb-6 justify-center">
             <button
@@ -61,7 +79,6 @@ const Home: NextPage = () => {
               Sort by Difference (Desc)
             </button>
           </div>
-
           {/* Campaigns list */}
           <ul className="space-y-4">
             {campaigns.map((campaign, index) => (
@@ -102,9 +119,12 @@ const Home: NextPage = () => {
 
           {/* Right side: contact links, social links, etc. */}
           <div className="flex items-center gap-4 text-sm">
-            {/* <a href="mailto:your.email@example.com" className="hover:underline">
+            <a
+              href="mailto:david@lafiregofundmes.org"
+              className="hover:underline"
+            >
               Email
-            </a> */}
+            </a>
             <a
               href="https://www.instagram.com/david_beltran_photography"
               className="hover:underline"
