@@ -1,13 +1,5 @@
 [
   {
-    "title": "Help Lola Replace Her Wildfire-Burned Car",
-    "url": "https://www.gofundme.com/f/support-marias-recovery-from-fire-tragedy?attribution_id=sl:3c81cf32-c6da-43a9-b672-9e3e14414018&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 78,
-    "goal": 7800.0,
-    "percent": 1,
-    "difference_from_goal": 7722.0
-  },
-  {
     "title": "Support Cole\u2019s Family After Pasadena house Fire",
     "url": "https://www.gofundme.com/f/support-cole-boutons-family-after-devastating-fire?attribution_id=sl:d2fb4cd9-0968-49a4-981c-ce79b901fb01&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
     "amount_raised": 85,
@@ -16,12 +8,20 @@
     "difference_from_goal": 4165.0
   },
   {
+    "title": "Help Lola Replace Her Wildfire-Burned Car",
+    "url": "https://www.gofundme.com/f/support-marias-recovery-from-fire-tragedy?attribution_id=sl:3c81cf32-c6da-43a9-b672-9e3e14414018&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 100,
+    "goal": 5000.0,
+    "percent": 2,
+    "difference_from_goal": 4900.0
+  },
+  {
     "title": "Please help Lugo-Gonzalez",
     "url": "https://www.gofundme.com/f/help-rebuild-lugogonzalez-home-after-devastating-fire-loss?attribution_id=sl:300e2128-c9ea-414c-a57d-08eb07e289fe&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 12114,
-    "goal": 302850.0,
+    "amount_raised": 12189,
+    "goal": 304725.0,
     "percent": 4,
-    "difference_from_goal": 290736.0
+    "difference_from_goal": 292536.0
   },
   {
     "title": "Help My Grandfather Re-cover From Fire",
@@ -32,20 +32,44 @@
     "difference_from_goal": 46794.22222222222
   },
   {
-    "title": "Rebuilding Hope for a Mother & Son after Eatonfire",
-    "url": "https://www.gofundme.com/f/rebuilding-hope-for-a-mother-and-her-son?attribution_id=sl:c3b50724-b1ea-45a9-9c41-99918ae571d3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 790,
-    "goal": 7900.0,
-    "percent": 10,
-    "difference_from_goal": 7110.0
-  },
-  {
     "title": "Help Us Recover From Losing Our Home",
     "url": "https://www.gofundme.com/f/7vcfxd-help-us-recover-from-losing-our-home?attribution_id=sl:20e6b6dd-c535-4981-b339-907855205fdb&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
     "amount_raised": 4920,
     "goal": 49200.0,
     "percent": 10,
     "difference_from_goal": 44280.0
+  },
+  {
+    "title": "Martinez Family Home lost to Devastating Altadena Fire",
+    "url": "https://www.gofundme.com/f/martinez-family-home-lost-to-devastating-altadena-fire?attribution_id=sl%3A3580091f-3935-472a-bf65-7a650e1b7418&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaY_BB4yyj1TELXZ7NorBG0lpsWah9Dfb0K-fthNXPpjHeZTkiNgl-MQUtA_aem_gaQA_zD31IiuvnbYRwwg1w",
+    "amount_raised": 4849,
+    "goal": 48490.0,
+    "percent": 10,
+    "difference_from_goal": 43641.0
+  },
+  {
+    "title": "Rebuilding Hope for a Mother & Son after Eatonfire",
+    "url": "https://www.gofundme.com/f/rebuilding-hope-for-a-mother-and-her-son?attribution_id=sl:c3b50724-b1ea-45a9-9c41-99918ae571d3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 880,
+    "goal": 8000.0,
+    "percent": 11,
+    "difference_from_goal": 7120.0
+  },
+  {
+    "title": "Help Edwards family Recover After Altadena Fires",
+    "url": "https://www.gofundme.com/f/help-edward-higadera-rebuild-after-altadena-fires?attribution_id=sl:00725fcf-738d-493f-907b-2393650e9085&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 2279,
+    "goal": 20718.18181818182,
+    "percent": 11,
+    "difference_from_goal": 18439.18181818182
+  },
+  {
+    "title": "Support Justin and Family: Rebuild and Recover",
+    "url": "https://www.gofundme.com/f/support-justins-family-rebuild-and-recover?attribution_id=sl:5d867f92-5c2e-44fd-b3f0-edfbd3b226a6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5957,
+    "goal": 54154.545454545456,
+    "percent": 11,
+    "difference_from_goal": 48197.545454545456
   },
   {
     "title": "Support the Sotomayor Family After Fire Loss",
@@ -64,20 +88,12 @@
     "difference_from_goal": 21223.571428571428
   },
   {
-    "title": "Please Support Ariana Vasquez After the Eaton Fire",
-    "url": "https://www.gofundme.com/f/support-ariana-vasquez-after-the-eaton-fire?attribution_id=sl%3A102b1eba-cf2c-4f68-8750-ce51349086b8&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaaDy9JrHTjGjaylS6O_XzSXWIN17iJNotIXKqGNdoIFipw0ccMKFwudUvs_aem_HEg_0Ymb75ouXVK3mTIEKg",
-    "amount_raised": 2998,
-    "goal": 19986.666666666668,
-    "percent": 15,
-    "difference_from_goal": 16988.666666666668
-  },
-  {
     "title": "Help Sandy Get Back On Her Feet After The Eaton Fire",
     "url": "https://www.gofundme.com/f/sandy-repair-home-damaged-in-eaton-fire?attribution_id=sl:7e8259a5-51bb-41dc-bbff-60d8ebeb8dda&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 5203,
-    "goal": 34686.666666666664,
+    "amount_raised": 5407,
+    "goal": 36046.666666666664,
     "percent": 15,
-    "difference_from_goal": 29483.666666666664
+    "difference_from_goal": 30639.666666666664
   },
   {
     "title": "Hernandez Family new journey",
@@ -88,12 +104,28 @@
     "difference_from_goal": 6970.0
   },
   {
+    "title": "Help Sandy Get Back On Her Feet After The Eaton Fire",
+    "url": "https://www.gofundme.com/f/sandy-repair-home-damaged-in-eaton-fire?attribution_id=sl:7e8259a5-51bb-41dc-bbff-60d8ebeb8dda&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 5407,
+    "goal": 36046.666666666664,
+    "percent": 15,
+    "difference_from_goal": 30639.666666666664
+  },
+  {
+    "title": "Please Support Ariana Vasquez After the Eaton Fire",
+    "url": "https://www.gofundme.com/f/support-ariana-vasquez-after-the-eaton-fire?attribution_id=sl%3A102b1eba-cf2c-4f68-8750-ce51349086b8&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaaDy9JrHTjGjaylS6O_XzSXWIN17iJNotIXKqGNdoIFipw0ccMKFwudUvs_aem_HEg_0Ymb75ouXVK3mTIEKg",
+    "amount_raised": 3143,
+    "goal": 19643.75,
+    "percent": 16,
+    "difference_from_goal": 16500.75
+  },
+  {
     "title": "Matias Family Needs Help After Fire Loss",
     "url": "https://www.gofundme.com/f/matias-family-needs-help-after-fire-loss?attribution_id=sl:4b914dc7-a013-42ef-a3b1-f922741979ea&utm_campaign=pd_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 4156,
-    "goal": 25975.0,
+    "amount_raised": 4206,
+    "goal": 26287.5,
     "percent": 16,
-    "difference_from_goal": 21819.0
+    "difference_from_goal": 22081.5
   },
   {
     "title": "Help my dad rebuild from the fire",
@@ -104,20 +136,28 @@
     "difference_from_goal": 6536.25
   },
   {
-    "title": "Help Our Family Rebuild After Eaton Fire",
-    "url": "https://www.gofundme.com/f/help-the-tapia-vega-family-rebuild-after-fire?attribution_id=sl%3Aa1d9d6f5-eed4-4498-a392-dd6fd0eecd0c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 3205,
-    "goal": 20031.25,
+    "title": "Help My Family Rebuild After Fire Loss",
+    "url": "https://www.gofundme.com/f/7by4n-help-my-parents-rebuild-after-fire-loss?attribution_id=sl:ffddc386-ce5f-486a-8cdb-590840aae97a&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=native_options",
+    "amount_raised": 12065,
+    "goal": 75406.25,
     "percent": 16,
-    "difference_from_goal": 16826.25
+    "difference_from_goal": 63341.25
   },
   {
-    "title": "Help Andrea Rebuild Post-Wildfire",
-    "url": "https://www.gofundme.com/f/help-andrea-rebuild-after-eaton-canyon-wildfires?attribution_id=sl:11440a00-8f8f-4862-a68c-3b632dc95be7&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=native_options",
-    "amount_raised": 1675,
-    "goal": 9852.941176470587,
+    "title": "Help Uncle Trini Rebuild After Fire",
+    "url": "https://www.gofundme.com/f/help-uncle-trini-rebuild-after-fire?attribution_id=sl:92a5390b-4028-4bb5-bc54-ae4b8e3cd5c3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 1145,
+    "goal": 7156.25,
+    "percent": 16,
+    "difference_from_goal": 6011.25
+  },
+  {
+    "title": "Help Our Family Rebuild After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-the-tapia-vega-family-rebuild-after-fire?attribution_id=sl%3Aa1d9d6f5-eed4-4498-a392-dd6fd0eecd0c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 3450,
+    "goal": 20294.117647058825,
     "percent": 17,
-    "difference_from_goal": 8177.941176470587
+    "difference_from_goal": 16844.117647058825
   },
   {
     "title": "Help Hallee Rebuild After Devastating Fire",
@@ -136,44 +176,124 @@
     "difference_from_goal": 5736.764705882353
   },
   {
-    "title": "Help Adonis \u201cCoach AD \u201c and Denise Jones Rebuild After Fire",
+    "title": "Help Andrea Rebuild Post-Wildfire",
+    "url": "https://www.gofundme.com/f/help-andrea-rebuild-after-eaton-canyon-wildfires?attribution_id=sl:11440a00-8f8f-4862-a68c-3b632dc95be7&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=native_options",
+    "amount_raised": 1820,
+    "goal": 10111.111111111111,
+    "percent": 18,
+    "difference_from_goal": 8291.111111111111
+  },
+  {
+    "title": "Help Andrea Rebuild Post-Wildfire",
+    "url": "https://www.gofundme.com/f/help-andrea-rebuild-after-eaton-canyon-wildfires?attribution_id=sl:cee7be93-81ab-4d30-97da-c045bb009778&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 1820,
+    "goal": 10111.111111111111,
+    "percent": 18,
+    "difference_from_goal": 8291.111111111111
+  },
+  {
+    "title": "Please Help Justin Soria and Mom Rebuild After Fire",
+    "url": "https://www.gofundme.com/f/help-justin-and-mom-rebuild-after-fire?attribution_id=sl%3Ab194d2c0-b3e7-40d4-9381-e98793e63d24&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 3581,
+    "goal": 19894.444444444445,
+    "percent": 18,
+    "difference_from_goal": 16313.444444444445
+  },
+  {
+    "title": "A new start for the Rodriguez family",
+    "url": "https://www.gofundme.com/f/rebuilding-after-the-eaton-fire?attribution_id=sl:de0fda1b-976a-4c9d-bad2-c7b4d8006e5d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4772,
+    "goal": 25115.78947368421,
+    "percent": 19,
+    "difference_from_goal": 20343.78947368421
+  },
+  {
+    "title": "Lost Everything in Altadena Blaze",
+    "url": "https://www.gofundme.com/f/lost-everything-in-altadena-blaze?attribution_id=sl:b9601a37-2fab-49c4-9cd5-e421853d40fe&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 9604,
+    "goal": 50547.36842105263,
+    "percent": 19,
+    "difference_from_goal": 40943.36842105263
+  },
+  {
+    "title": "Help William Rebuild After Losing His Home To A Fire",
+    "url": "https://www.gofundme.com/f/help-william-rebuild-after-losing-his-home-to-a-fire?attribution_id=sl:4b3e1bea-6d23-4e56-a850-4d9886dad5bb&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 1595,
+    "goal": 7975.0,
+    "percent": 20,
+    "difference_from_goal": 6380.0
+  },
+  {
+    "title": "Help the Nunez Nieto family rebuild after fire",
+    "url": "https://www.gofundme.com/f/help-the-nunez-nieto-family-rebuild-after-fire?attribution_id=sl:7c40711a-0ba3-432e-a499-a159777f7016&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 3930,
+    "goal": 19650.0,
+    "percent": 20,
+    "difference_from_goal": 15720.0
+  },
+  {
+    "title": "Help Nic Davidson and his Nana After Fire Loss",
+    "url": "https://www.gofundme.com/f/help-nic-davidson-and-his-nana-rebuild-after-fire-loss?attribution_id=sl:8897cc12-d9ee-4bc3-a8ce-90f8ae25e892&utm_campaign=natman_sharesheet_dash&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5995,
+    "goal": 29975.0,
+    "percent": 20,
+    "difference_from_goal": 23980.0
+  },
+  {
+    "title": "Coach AD is moving forward with your help..",
     "url": "https://www.gofundme.com/f/help-adonis-coach-ad-and-denise-jones-rebuild-after-fire?attribution_id=sl:acfdd28f-f3e1-4044-8450-96e122f369c0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 51782,
-    "goal": 246580.95238095237,
+    "amount_raised": 52952,
+    "goal": 252152.38095238095,
     "percent": 21,
-    "difference_from_goal": 194798.95238095237
+    "difference_from_goal": 199200.38095238095
+  },
+  {
+    "title": "Support Sahagun Perez family After Eaton Fire Tragedy",
+    "url": "https://www.gofundme.com/f/help-sahagun-perez-family-rebuild-after-eaton-fire-tragedy?fbclid=PAZXh0bgNhZW0CMTEAAaZ_0_BORYCehgafn3HbnNa483RzabnCi6Yl-PDWZrdQqM307-LCAu7n4Hg_aem_Ho3_x-TRaAnN-Bt-24Rd-w",
+    "amount_raised": 4100,
+    "goal": 19523.809523809523,
+    "percent": 21,
+    "difference_from_goal": 15423.809523809523
   },
   {
     "title": "Help Celia Recover due to Fire Loss",
     "url": "https://www.gofundme.com/f/help-celia-rebuild-after-fire-loss?attribution_id=sl:63e4e7c4-d948-4b2a-9dfe-5c900c9b7146&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 2815,
-    "goal": 12795.454545454546,
+    "amount_raised": 2840,
+    "goal": 12909.09090909091,
     "percent": 22,
-    "difference_from_goal": 9980.454545454546
+    "difference_from_goal": 10069.09090909091
   },
   {
-    "title": "Support Ari's Family: Evacuation and Job Loss",
-    "url": "https://www.gofundme.com/f/support-aris-family-evacuation-and-job-loss?attribution_id=sl%3Ab67e38f7-e4b8-4e18-b21e-02aac10b85e2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 1200,
-    "goal": 5000.0,
+    "title": "Help Alyssa's Family with unexpected costs",
+    "url": "https://www.gofundme.com/f/9pte5m-help-alyssas-family-rebuild-after-fire?attribution_id=sl:b2792e1b-39ac-4db5-a3f6-c463cd71af5a&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4561,
+    "goal": 19830.434782608696,
+    "percent": 23,
+    "difference_from_goal": 15269.434782608696
+  },
+  {
+    "title": "Aid Kimberly and family with the loss of home in wild fire",
+    "url": "https://www.gofundme.com/f/kimberly-and-family-with-the-eaton-canyon-wild-fire?attribution_id=sl:1a94b3df-edc2-413c-96db-0266889b78d9&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4700,
+    "goal": 19583.333333333332,
     "percent": 24,
-    "difference_from_goal": 3800.0
+    "difference_from_goal": 14883.333333333332
   },
   {
     "title": "Rebuild Hope for Leta and Her Children",
     "url": "https://www.gofundme.com/f/rebuild-hope-for-leta-and-her-children?attribution_id=sl:41890bf8-3c68-410f-9ca3-dc795bf0b12c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 9005,
-    "goal": 34634.61538461538,
+    "amount_raised": 9055,
+    "goal": 34826.92307692308,
     "percent": 26,
-    "difference_from_goal": 25629.615384615383
+    "difference_from_goal": 25771.923076923078
   },
   {
     "title": "Restore My Husband's Tools and Truck",
     "url": "https://www.gofundme.com/f/restore-my-husbands-tools-and-truck?attribution_id=sl:a593fa6e-c94f-4403-a212-98d9f2685f88&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 2560,
-    "goal": 9846.153846153846,
+    "amount_raised": 2610,
+    "goal": 10038.461538461539,
     "percent": 26,
-    "difference_from_goal": 7286.153846153846
+    "difference_from_goal": 7428.461538461539
   },
   {
     "title": "Help Carlos and Lupe Recover from the Eaton Fire",
@@ -184,39 +304,79 @@
     "difference_from_goal": 21810.076923076922
   },
   {
+    "title": "Support Kimberly's Family After Wildfire",
+    "url": "https://www.gofundme.com/f/support-kimberlys-family-after-wildfire?fbclid=PAZXh0bgNhZW0CMTEAAaa1rDxaJIft-7y-XuSg1hOWx41C42oXSsAp0FZc8R5rC7i-6K64MbvKEgs_aem_gtVa8G8BdwNFw_4Fdugt1g",
+    "amount_raised": 2630,
+    "goal": 10115.384615384615,
+    "percent": 26,
+    "difference_from_goal": 7485.384615384615
+  },
+  {
+    "title": "Support Ari's Family: Evacuation and Job Loss",
+    "url": "https://www.gofundme.com/f/support-aris-family-evacuation-and-job-loss?attribution_id=sl%3Ab67e38f7-e4b8-4e18-b21e-02aac10b85e2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 1360,
+    "goal": 5037.037037037037,
+    "percent": 27,
+    "difference_from_goal": 3677.0370370370374
+  },
+  {
+    "title": "Support Garcia Sanchez Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-garcia-sanchez-family-after-fire-loss?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3A734b9d13-11de-4ed6-89f7-b05e47840aff",
+    "amount_raised": 6815,
+    "goal": 25240.74074074074,
+    "percent": 27,
+    "difference_from_goal": 18425.74074074074
+  },
+  {
+    "title": "Help Support the Ezieme Family",
+    "url": "https://www.gofundme.com/f/help-rebuild-the-ezieme-familys-home?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=native_options&fbclid=PAZXh0bgNhZW0CMTEAAaaW4kEx8CYiWLytA-88jZBvZdycJi1T5njEVwW1CtM1naUbsknr40JHdVs_aem_Z2p_nr-CU5RMu7onVult1w",
+    "amount_raised": 41485,
+    "goal": 148160.7142857143,
+    "percent": 28,
+    "difference_from_goal": 106675.71428571429
+  },
+  {
+    "title": "Support for De La Torre Family After Fire",
+    "url": "https://www.gofundme.com/f/support-for-de-la-torre-family-after-fire?attribution_id=sl%3Ab84067ae-2a37-449b-9a7a-28f212f243b7&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaZP-BGZY1SKVM35Dwkj2l78wRH_beX341B0B1OWZChsaGDIVRA6fC4g1Gk_aem_XdMIrOMnEbZKPm7OT_P-UQ",
+    "amount_raised": 8460,
+    "goal": 30214.285714285714,
+    "percent": 28,
+    "difference_from_goal": 21754.285714285714
+  },
+  {
     "title": "Help the Garcia Family Recover After Devastating Fires",
     "url": "https://www.gofundme.com/f/help-the-garcia-family-rebuild-after-devastating-fires?attribution_id=sl%3Ae9c9bbde-ae1e-4e2c-ba95-59bc16ea6270&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaaEFjVVH775L0HwJHqUnPf1O7-RV4u-LuSWShSCdOYrhHFtsjYzMvdMhoU_aem_voENPwp3wksI9OnD0GBJow",
-    "amount_raised": 27483,
-    "goal": 101788.88888888889,
-    "percent": 27,
-    "difference_from_goal": 74305.88888888889
-  },
-  {
-    "title": "Support My Sister's Family After Disaster",
-    "url": "https://www.gofundme.com/f/support-my-sisters-family-after-disaster?attribution_id=sl:259364dc-5d68-42d6-8bac-89e28cdfc6ee&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 5464,
-    "goal": 20237.037037037036,
-    "percent": 27,
-    "difference_from_goal": 14773.037037037036
-  },
-  {
-    "title": "Eaton Canyon Fire Relief for Choice Clark",
-    "url": "https://www.gofundme.com/f/eaton-canyon-fire-relief-for-choice-clark?attribution_id=sl%3A7644a76e-93fb-4e40-8da4-63186fcf9078&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=sms&fbclid=PAZXh0bgNhZW0CMTEAAaYGqrFa6FlRqJ7qrh2gFCAUYgXEWGuZ5QMFyz5xEM6V-lioUdE0e5ifI_c_aem_msgCGU_6ZFfGo1FHXbBqJw",
-    "amount_raised": 7221,
-    "goal": 24900.0,
+    "amount_raised": 29424,
+    "goal": 101462.06896551725,
     "percent": 29,
-    "difference_from_goal": 17679.0
+    "difference_from_goal": 72038.06896551725
+  },
+  {
+    "title": "Family Home Destroyed: We Need Your Help",
+    "url": "https://www.gofundme.com/f/family-home-destroyed-we-need-your-help?attribution_id=sl%3Abff423af-b9db-423e-99e2-1717d40b9700&utm_campaign=natman_sharesheet_dash&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAabFp1knTBoxXmmqtljn8BibRyQg07-H6L1ZwGbHtkQVTzilRrzmptgLUBU_aem_39NWAyB3aszMx_cUXc0pNw",
+    "amount_raised": 2041,
+    "goal": 7037.931034482759,
+    "percent": 29,
+    "difference_from_goal": 4996.931034482759
+  },
+  {
+    "title": "Help the Garcia Family Recover After Devastating Fires",
+    "url": "https://www.gofundme.com/f/help-the-garcia-family-rebuild-after-devastating-fires?attribution_id=sl%3Ae9c9bbde-ae1e-4e2c-ba95-59bc16ea6270&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaaEFjVVH775L0HwJHqUnPf1O7-RV4u-LuSWShSCdOYrhHFtsjYzMvdMhoU_aem_voENPwp3wksI9OnD0GBJow",
+    "amount_raised": 29424,
+    "goal": 101462.06896551725,
+    "percent": 29,
+    "difference_from_goal": 72038.06896551725
   },
   {
     "title": "Support Wallace Family\u2019s Loss in Fire",
     "url": "https://www.gofundme.com/f/cccmnt-help-us-rebuild-our-family-home?fbclid=PAZXh0bgNhZW0CMTEAAaamLyZn9VYEWyp1d8_K0KosJC4devR0fLHL1O9vNXQ6p4j32hdF7_tzMDw_aem_TnUb-i2lcQSMjWezWumvog",
-    "amount_raised": 30065,
-    "goal": 100216.66666666667,
+    "amount_raised": 30155,
+    "goal": 100516.66666666667,
     "percent": 30,
-    "difference_from_goal": 70151.66666666667
+    "difference_from_goal": 70361.66666666667
   },
   {
-    "title": "Help The Chisley Family Rebuild After Losing Their Home",
+    "title": "Help The Chisleys After Eaton Canyon Fire",
     "url": "https://www.gofundme.com/f/help-the-chisley-family-rebuild-after-losing-their-home?attribution_id=sl:aaf9bd2b-2874-4bbe-bd00-316d53b0ce3d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
     "amount_raised": 4727,
     "goal": 15756.666666666666,
@@ -226,77 +386,117 @@
   {
     "title": "Restore the Elias family home after devastating Eaton Fire.",
     "url": "https://www.gofundme.com/f/rebuild-the-elias-family-home-after-devastating-eaton-fire?attribution_id=sl:525e6f86-f98d-4165-a4b6-dd7b5a129fe9&utm_campaign=natman_sharesheet_dash&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 15215,
-    "goal": 50716.666666666664,
-    "percent": 30,
-    "difference_from_goal": 35501.666666666664
+    "amount_raised": 15705,
+    "goal": 50661.290322580644,
+    "percent": 31,
+    "difference_from_goal": 34956.290322580644
+  },
+  {
+    "title": "Support for George Jenkins Sr lost it all in Altadena fire",
+    "url": "https://www.gofundme.com/f/rebuild-after-altadena-fire?attribution_id=sl%3A2ed9bbdf-a8d4-4683-9b9b-0ccf662345d0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 18798,
+    "goal": 60638.709677419356,
+    "percent": 31,
+    "difference_from_goal": 41840.709677419356
   },
   {
     "title": "Assist Little Rayv's Family After Fire",
     "url": "https://www.gofundme.com/f/assist-little-rayvs-family-after-fire?attribution_id=sl:bdea9667-c5e0-4c71-8002-fe0da130413b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 12580,
-    "goal": 40580.645161290326,
-    "percent": 31,
-    "difference_from_goal": 28000.645161290326
-  },
-  {
-    "title": "Donate to Aid the Zu\u00f1iga Family After Fire",
-    "url": "https://www.gofundme.com/f/donate-to-aid-the-zuniga-family-after-fire?attribution_id=sl:370bd06c-25fd-429a-b97d-8f788c4fe24e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 3806,
-    "goal": 11893.75,
+    "amount_raised": 12680,
+    "goal": 39625.0,
     "percent": 32,
-    "difference_from_goal": 8087.75
-  },
-  {
-    "title": "Your contributions will help us through this challenging ti",
-    "url": "https://www.gofundme.com/f/help-the-villanueva-family-rebuild-after-fire?attribution_id=sl:8bd123ec-b97a-4d64-a660-53e28ddf08d0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 7586,
-    "goal": 23706.25,
-    "percent": 32,
-    "difference_from_goal": 16120.25
+    "difference_from_goal": 26945.0
   },
   {
     "title": "Help Ana Rebuild After the Fire",
     "url": "https://www.gofundme.com/f/help-ana-rebuild-after-the-fire?attribution_id=sl:27d4cb3c-9800-4189-a2fa-11ff8127f2a3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 3872,
-    "goal": 12100.0,
+    "amount_raised": 3892,
+    "goal": 12162.5,
     "percent": 32,
-    "difference_from_goal": 8228.0
+    "difference_from_goal": 8270.5
+  },
+  {
+    "title": "Eaton Canyon Fire Relief for Choice Clark",
+    "url": "https://www.gofundme.com/f/eaton-canyon-fire-relief-for-choice-clark?attribution_id=sl%3A7644a76e-93fb-4e40-8da4-63186fcf9078&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=sms&fbclid=PAZXh0bgNhZW0CMTEAAaYGqrFa6FlRqJ7qrh2gFCAUYgXEWGuZ5QMFyz5xEM6V-lioUdE0e5ifI_c_aem_msgCGU_6ZFfGo1FHXbBqJw",
+    "amount_raised": 7986,
+    "goal": 24956.25,
+    "percent": 32,
+    "difference_from_goal": 16970.25
+  },
+  {
+    "title": "Help a Family Recover from the LA Fires",
+    "url": "https://www.gofundme.com/f/donate-to-family-devastated-by-la-fires?attribution_id=sl:a98c29df-7a6d-4e5e-b723-6f64c310d22e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_feed",
+    "amount_raised": 6390,
+    "goal": 19968.75,
+    "percent": 32,
+    "difference_from_goal": 13578.75
+  },
+  {
+    "title": "Supporting The Torres Family from devastating losses",
+    "url": "https://www.gofundme.com/f/supporting-the-torres-family-from-devastating-losses?attribution_id=sl%3A5eb506d9-5f1e-4916-9d68-d34962ebf20d&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaawHo-RiV58Gbfwd6VJMwGxQmI0b-cN1Nn0QXju_uay4rW0xukB6JhfOXw_aem_t_TYDd0mUorg1xY-ttl4wg",
+    "amount_raised": 3220,
+    "goal": 10062.5,
+    "percent": 32,
+    "difference_from_goal": 6842.5
+  },
+  {
+    "title": "Assist Little Rayv's Family After Fire",
+    "url": "https://www.gofundme.com/f/assist-little-rayvs-family-after-fire?attribution_id=sl:bdea9667-c5e0-4c71-8002-fe0da130413b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 12680,
+    "goal": 39625.0,
+    "percent": 32,
+    "difference_from_goal": 26945.0
+  },
+  {
+    "title": "Your contributions will help us through this challenging ti",
+    "url": "https://www.gofundme.com/f/help-the-villanueva-family-rebuild-after-fire?attribution_id=sl:8bd123ec-b97a-4d64-a660-53e28ddf08d0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7801,
+    "goal": 23639.39393939394,
+    "percent": 33,
+    "difference_from_goal": 15838.39393939394
   },
   {
     "title": "Rebuilding Hope for Amondo & Jackie\u2019s Family",
     "url": "https://www.gofundme.com/f/rebuilding-hope-for-amondos-family?attribution_id=sl:f8621fac-ccf0-4c5f-9c15-72e3041fb661&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 11378,
-    "goal": 34478.78787878788,
+    "amount_raised": 11403,
+    "goal": 34554.545454545456,
     "percent": 33,
-    "difference_from_goal": 23100.78787878788
+    "difference_from_goal": 23151.545454545456
   },
   {
     "title": "Support Hrag & Nina Krikorian After Tragic Fire Loss",
     "url": "https://www.gofundme.com/f/support-hrag-nina-krikorian-after-tragic-fire-loss?attribution_id=sl:de12b231-cd92-4f28-8b7e-1faf5acbe1d7&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 13240,
-    "goal": 40121.21212121212,
+    "amount_raised": 13260,
+    "goal": 40181.818181818184,
     "percent": 33,
-    "difference_from_goal": 26881.21212121212
+    "difference_from_goal": 26921.818181818184
+  },
+  {
+    "title": "Support My Sister's Family After Disaster",
+    "url": "https://www.gofundme.com/f/support-my-sisters-family-after-disaster?attribution_id=sl:259364dc-5d68-42d6-8bac-89e28cdfc6ee&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 6659,
+    "goal": 20178.78787878788,
+    "percent": 33,
+    "difference_from_goal": 13519.78787878788
   },
   {
     "title": "Help my Family Rebuild After Devastating Eaton Fire",
     "url": "https://www.gofundme.com/f/help-my-family-rebuild-after-devastating-eaton-fire?attribution_id=sl%3Aa72ac8e7-0138-4a0f-8e3f-b88410e36aa1&utm_campaign=natman_sharesheet_dash&utm_content=amp10_t2&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 17172,
-    "goal": 50505.882352941175,
-    "percent": 34,
-    "difference_from_goal": 33333.882352941175
+    "amount_raised": 17402,
+    "goal": 49720.0,
+    "percent": 35,
+    "difference_from_goal": 32318.0
   },
   {
-    "title": "Road to Recovery",
-    "url": "https://www.gofundme.com/f/-household-road-to-recovery?attribution_id=sl:1afa9d7f-2482-44cd-a406-29f0ac7ce39c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 36285,
-    "goal": 100791.66666666667,
-    "percent": 36,
-    "difference_from_goal": 64506.66666666667
+    "title": "Help my Family Rebuild After Devastating Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-my-family-rebuild-after-devastating-eaton-fire?attribution_id=sl%3Aa72ac8e7-0138-4a0f-8e3f-b88410e36aa1&utm_campaign=natman_sharesheet_dash&utm_content=amp10_t2&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 17452,
+    "goal": 49862.857142857145,
+    "percent": 35,
+    "difference_from_goal": 32410.857142857145
   },
   {
-    "title": "Help Marcela Ba\u00f1uelos Rebuild After Eaton Fire",
+    "title": "Help Marcela Ba\u00f1uelos After Eaton Fire",
     "url": "https://www.gofundme.com/f/help-marcela-banuelos-rebuild-after-eaton-fire?attribution_id=sl%3A278abd27-5db0-4fbf-be34-0d2486e7406c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAab7uIgri2q6IQR04yzTBiCN1mrxfzTK9qgYjROyYAEuN3r91nIVb812pMw_aem_D-exBBASBA76FO3vGjCTLQ",
     "amount_raised": 10865,
     "goal": 30180.555555555555,
@@ -304,12 +504,28 @@
     "difference_from_goal": 19315.555555555555
   },
   {
-    "title": "Help Marcela Ba\u00f1uelos Rebuild After Eaton Fire",
+    "title": "Help Marcela Ba\u00f1uelos After Eaton Fire",
     "url": "https://www.gofundme.com/f/help-marcela-banuelos-rebuild-after-eaton-fire?attribution_id=sl:08233f9c-08cb-40e1-a9b5-c7e2d31b4ac2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 10865,
-    "goal": 30180.555555555555,
+    "amount_raised": 10875,
+    "goal": 30208.333333333332,
     "percent": 36,
-    "difference_from_goal": 19315.555555555555
+    "difference_from_goal": 19333.333333333332
+  },
+  {
+    "title": "Road to Recovery",
+    "url": "https://www.gofundme.com/f/-household-road-to-recovery?attribution_id=sl:1afa9d7f-2482-44cd-a406-29f0ac7ce39c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 36520,
+    "goal": 98702.7027027027,
+    "percent": 37,
+    "difference_from_goal": 62182.70270270271
+  },
+  {
+    "title": "Support Espinoza Family's Recovery",
+    "url": "https://www.gofundme.com/f/support-espinoza-familys-recovery?attribution_id=sl:ce2c3485-cae6-4b64-ae04-3fc0a1002bb2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 11118,
+    "goal": 30048.64864864865,
+    "percent": 37,
+    "difference_from_goal": 18930.64864864865
   },
   {
     "title": "Un nuevo comienzo para Los Godinez",
@@ -320,140 +536,260 @@
     "difference_from_goal": 6250.578947368422
   },
   {
-    "title": "Help Bustamante Family Home Lost to the Eaton Fire",
-    "url": "https://www.gofundme.com/f/help-the-bustamante-family-rebuild-their-home?attribution_id=sl:276d1795-b32a-424a-b179-027340844159&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 7621,
-    "goal": 20055.263157894737,
+    "title": "Urgent Relief for Family After Devastating Fire",
+    "url": "https://www.gofundme.com/f/fire-leaves-family-homeless-and-in-need?attribution_id=sl:b5c3ba83-c70a-4693-bcca-b785bfb43a3d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7642,
+    "goal": 20110.526315789473,
     "percent": 38,
-    "difference_from_goal": 12434.263157894737
+    "difference_from_goal": 12468.526315789473
+  },
+  {
+    "title": "support genesis family after eaton fire",
+    "url": "https://www.gofundme.com/f/genesis-needs-your-help-after-fire-loss?attribution_id=sl:def3e9b6-3cf0-4a54-91fb-b0a3a9aaea85&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 3757,
+    "goal": 9886.842105263158,
+    "percent": 38,
+    "difference_from_goal": 6129.842105263158
+  },
+  {
+    "title": "Donation for the Trujillo Family",
+    "url": "https://www.gofundme.com/f/20year-home-lost-family-needs-help?attribution_id=sl:17647e06-8b0f-41e5-9bab-6913fffea4c7&utm_campaign=natman_sharesheet_dash&utm_medium=customer&utm_source=sms",
+    "amount_raised": 8305,
+    "goal": 21855.263157894737,
+    "percent": 38,
+    "difference_from_goal": 13550.263157894737
   },
   {
     "title": "Help Laura's Family Rebuild After Altadena Fires",
     "url": "https://www.gofundme.com/f/help-lauras-family-rebuild-after-altadena-fires?attribution_id=sl:6288aff3-ccdb-4f52-8dd4-cdd220a19084&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 11760,
-    "goal": 30153.846153846152,
+    "amount_raised": 11770,
+    "goal": 30179.48717948718,
     "percent": 39,
-    "difference_from_goal": 18393.846153846152
+    "difference_from_goal": 18409.48717948718
   },
   {
-    "title": "Support a Family's Recovery from Eaton Fires",
-    "url": "https://www.gofundme.com/f/support-a-familys-recovery-from-eaton-fires?attribution_id=sl:c0c162ef-4320-4a01-9a23-d60f53a7d746&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 4135,
-    "goal": 10085.365853658537,
+    "title": "Help Bustamante Family Home Lost to the Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-the-bustamante-family-rebuild-their-home?attribution_id=sl:276d1795-b32a-424a-b179-027340844159&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7746,
+    "goal": 19861.53846153846,
+    "percent": 39,
+    "difference_from_goal": 12115.538461538461
+  },
+  {
+    "title": "Help Laura's Family Rebuild After Altadena Fires",
+    "url": "https://www.gofundme.com/f/help-lauras-family-rebuild-after-altadena-fires?attribution_id=sl:a3a67ca5-0ae7-4abb-b2da-fba967402511&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 11770,
+    "goal": 30179.48717948718,
+    "percent": 39,
+    "difference_from_goal": 18409.48717948718
+  },
+  {
+    "title": "Help Palomar Family fund to RECOVER Wildfire Loss",
+    "url": "https://www.gofundme.com/f/help-gabriela-rebuild-after-wildfire-loss?attribution_id=sl:404df816-b0c4-4e05-b6e4-918abf8b61e7&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 10720,
+    "goal": 26146.341463414636,
     "percent": 41,
-    "difference_from_goal": 5950.365853658537
-  },
-  {
-    "title": "Support the Thompson family After Fire loss",
-    "url": "https://www.gofundme.com/f/7vzvz-rebuilding-lives-after-devastating-fire?attribution_id=sl:390e4f28-dbec-4497-85b1-3628a9b7039e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 3586,
-    "goal": 8538.095238095239,
-    "percent": 42,
-    "difference_from_goal": 4952.0952380952385
+    "difference_from_goal": 15426.341463414636
   },
   {
     "title": "Help Virginia's Family Start Over After Fire",
     "url": "https://www.gofundme.com/f/help-virginias-family-rebuild-after-fire?attribution_id=sl:b5c80d28-a7ad-4c24-acc4-e08f7a3b659e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 12551,
-    "goal": 29883.333333333332,
+    "amount_raised": 12611,
+    "goal": 30026.190476190477,
     "percent": 42,
-    "difference_from_goal": 17332.333333333332
+    "difference_from_goal": 17415.190476190477
+  },
+  {
+    "title": "Donate to Aid the Zu\u00f1iga Family After Fire",
+    "url": "https://www.gofundme.com/f/donate-to-aid-the-zuniga-family-after-fire?attribution_id=sl:370bd06c-25fd-429a-b97d-8f788c4fe24e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5016,
+    "goal": 11942.857142857143,
+    "percent": 42,
+    "difference_from_goal": 6926.857142857143
   },
   {
     "title": "Wildfire relief for Jose Trinidad Rincon",
     "url": "https://www.gofundme.com/f/wildfire-relief-for-jose-trinidad-rincon?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3A74bbfe24-4e54-428c-8fff-b109372a55d0&fbclid=PAZXh0bgNhZW0CMTEAAaZ-UUXSeqdJQYPlLWi1Ze8SwlHrVGC3rPaZyGPnoe8LJ3FQ1KPqYmK9o2g_aem_NHFWcMqHboeOVb67dl6d_Q",
-    "amount_raised": 10810,
-    "goal": 25738.095238095237,
+    "amount_raised": 11000,
+    "goal": 26190.47619047619,
     "percent": 42,
-    "difference_from_goal": 14928.095238095237
-  },
-  {
-    "title": "Help the Rebollo Family rebuild after the Eaton Fire",
-    "url": "https://www.gofundme.com/f/help-the-rebollo-family-after-the-eaton-fire?attribution_id=sl%3A959ced30-85bb-4d46-ab9b-e9363448030f&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaYzSgEdW1bQUXgkEDcC7C9bvmKzlhvTwAoqbEXeOyO2NF9wcoVA7fGLHHo_aem_aHwclJS5SYZhFLZgClT3gQ",
-    "amount_raised": 12640,
-    "goal": 30095.238095238095,
-    "percent": 42,
-    "difference_from_goal": 17455.238095238095
+    "difference_from_goal": 15190.47619047619
   },
   {
     "title": "Help Esther and Diana Rebuild After Fire",
     "url": "https://www.gofundme.com/f/help-esther-and-diana-rebuild-after-fire?attribution_id=sl:33a55111-f50a-4314-9276-9c55543daa0c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 4160,
-    "goal": 9904.761904761905,
+    "amount_raised": 4205,
+    "goal": 10011.904761904761,
     "percent": 42,
-    "difference_from_goal": 5744.761904761905
+    "difference_from_goal": 5806.9047619047615
+  },
+  {
+    "title": "Support a Family's Recovery from Eaton Fires",
+    "url": "https://www.gofundme.com/f/support-a-familys-recovery-from-eaton-fires?attribution_id=sl:c0c162ef-4320-4a01-9a23-d60f53a7d746&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4155,
+    "goal": 9892.857142857143,
+    "percent": 42,
+    "difference_from_goal": 5737.857142857143
+  },
+  {
+    "title": "Please Help The Perez Family After Eaton Fire",
+    "url": "https://www.gofundme.com/f/rebuild-altadena-help-recover-our-home?attribution_id=sl:c150b373-eb55-4507-ba3a-8c29cf269b2f&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=email",
+    "amount_raised": 7595,
+    "goal": 18083.333333333332,
+    "percent": 42,
+    "difference_from_goal": 10488.333333333332
+  },
+  {
+    "title": "Support the Thompson family After Fire loss",
+    "url": "https://www.gofundme.com/f/7vzvz-rebuilding-lives-after-devastating-fire?attribution_id=sl:390e4f28-dbec-4497-85b1-3628a9b7039e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 3616,
+    "goal": 8409.302325581395,
+    "percent": 43,
+    "difference_from_goal": 4793.302325581395
+  },
+  {
+    "title": "Help the Rebollo Family heal after the Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-the-rebollo-family-after-the-eaton-fire?attribution_id=sl%3A959ced30-85bb-4d46-ab9b-e9363448030f&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaYzSgEdW1bQUXgkEDcC7C9bvmKzlhvTwAoqbEXeOyO2NF9wcoVA7fGLHHo_aem_aHwclJS5SYZhFLZgClT3gQ",
+    "amount_raised": 12985,
+    "goal": 30197.674418604653,
+    "percent": 43,
+    "difference_from_goal": 17212.674418604653
+  },
+  {
+    "title": "Support Larry Villescas and Family After Fire",
+    "url": "https://www.gofundme.com/f/support-larry-villescas-and-family-after-fire?attribution_id=sl:4b4b64a5-fbca-48eb-a855-53022a630340&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 8680,
+    "goal": 20186.04651162791,
+    "percent": 43,
+    "difference_from_goal": 11506.046511627908
   },
   {
     "title": "Help the Boatner-Vance Family Recover from the Eaton Fire",
     "url": "https://www.gofundme.com/f/help-the-boatnervance-family-rebuild-after-the-eaton-fire?attribution_id=sl:e061925a-7329-4392-b977-2348c4cd0f28&utm_campaign=natman_sharesheet_dash&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 6000,
-    "goal": 13953.488372093023,
-    "percent": 43,
-    "difference_from_goal": 7953.488372093023
+    "amount_raised": 6110,
+    "goal": 13886.363636363636,
+    "percent": 44,
+    "difference_from_goal": 7776.363636363636
+  },
+  {
+    "title": "Support Jackie and Mylah's New Beginning",
+    "url": "https://www.gofundme.com/f/support-jackie-and-mylahs-new-beginning?attribution_id=sl:1b29a925-c852-4eea-a0a5-f3d602e2c768&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 8735,
+    "goal": 19852.272727272728,
+    "percent": 44,
+    "difference_from_goal": 11117.272727272728
   },
   {
     "title": "Aid For Jazmin, Ezrael, and Baby Jolyne",
     "url": "https://www.gofundme.com/f/aid-for-jazmin-ezrael-and-baby-jolyne?attribution_id=sl:ecf8157f-0865-428c-96cc-655be8f5cc13&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 7118,
-    "goal": 16177.272727272728,
-    "percent": 44,
-    "difference_from_goal": 9059.272727272728
+    "amount_raised": 7138,
+    "goal": 15862.222222222223,
+    "percent": 45,
+    "difference_from_goal": 8724.222222222223
   },
   {
-    "title": "Eaton Fire - Help for Liz & Sean!",
-    "url": "https://www.gofundme.com/f/eaton-fire-help-for-liz-sean?attribution_id=sl:5feebfc8-76d0-41df-9b45-fd39d5115375&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 9455,
-    "goal": 20117.021276595744,
-    "percent": 47,
-    "difference_from_goal": 10662.021276595744
+    "title": "Help Rebuild After Tragic Fire \u2013 Support a Father & His Twin",
+    "url": "https://www.gofundme.com/f/help-rebuild-after-tragic-fire-support-a-father-his-twin?attribution_id=sl:bc220839-c266-4185-a820-7d193e24c684&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 11240,
+    "goal": 24977.777777777777,
+    "percent": 45,
+    "difference_from_goal": 13737.777777777777
+  },
+  {
+    "title": "Help Ashley's Family Rebuild After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-ashleys-family-rebuild-after-eaton-canyon-fire?attribution_id=sl:1e3c1743-bfdd-4a91-8474-ce49117b3367&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7221,
+    "goal": 15043.75,
+    "percent": 48,
+    "difference_from_goal": 7822.75
+  },
+  {
+    "title": "Support Linares Family's Fire Recovery",
+    "url": "https://www.gofundme.com/f/support-linares-familys-fire-recovery?attribution_id=sl:c5eda44d-ea4a-4485-a4b5-03136aaf7253&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 24483,
+    "goal": 49965.30612244898,
+    "percent": 49,
+    "difference_from_goal": 25482.30612244898
+  },
+  {
+    "title": "Support the Washington Family After Tragic Loss.",
+    "url": "https://www.gofundme.com/f/support-diavinis-father-after-tragic-loss?attribution_id=sl:0fe52c5f-8007-479e-80bd-876f34561c71&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 24723,
+    "goal": 50455.102040816324,
+    "percent": 49,
+    "difference_from_goal": 25732.102040816324
   },
   {
     "title": "The Placensia Family",
     "url": "https://www.gofundme.com/f/donate-to-the-placensia-family?attribution_id=sl:5a75decd-d1d5-4702-8689-b8d91c2bf3a6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 49222,
-    "goal": 100453.0612244898,
-    "percent": 49,
-    "difference_from_goal": 51231.06122448979
-  },
-  {
-    "title": "Help Daniel and Jessica Rebuild After Eaton Fire",
-    "url": "https://www.gofundme.com/f/help-daniel-and-jessica-rebuild-after-eaton-fire?attribution_id=sl%3Ada30a300-3ad6-423c-8026-d8ed8248cab0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaZfucBL21X1ItBmTIRc_BCzPxEKJXlbRpdAq2mbgvrlvEt-PI1v6F7lS6o_aem_HOIQpkcC5RY3oIg0-GnFlQ",
-    "amount_raised": 1945,
-    "goal": 3969.387755102041,
-    "percent": 49,
-    "difference_from_goal": 2024.387755102041
+    "amount_raised": 49522,
+    "goal": 99044.0,
+    "percent": 50,
+    "difference_from_goal": 49522.0
   },
   {
     "title": "Stand with Richie After the Wildfires",
     "url": "https://www.gofundme.com/f/stand-with-richie-after-the-wildfires?attribution_id=sl:ff06f75d-faef-4e52-b761-1b5e758e5cd6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 4940,
-    "goal": 10081.632653061224,
-    "percent": 49,
-    "difference_from_goal": 5141.632653061224
+    "amount_raised": 5040,
+    "goal": 10080.0,
+    "percent": 50,
+    "difference_from_goal": 5040.0
   },
   {
-    "title": "Help Rebuild Lives After Eaton Canyon Fires",
+    "title": "Help Support Lives After Eaton Canyon Fires",
     "url": "https://www.gofundme.com/f/help-rebuild-lives-after-eaton-canyon-fires?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3A841000a1-ffc9-4802-96c5-9c87abf42e11&fbclid=PAZXh0bgNhZW0CMTEAAaare60fRJtkq0VHEHWMPQnU-UNyYZZCnmolcmPH7cqY3Ebe4BxcVRNc2fo_aem_WfvRlefZWCNPS04qd6RJZg",
-    "amount_raised": 10044,
-    "goal": 20088.0,
+    "amount_raised": 10064,
+    "goal": 20128.0,
     "percent": 50,
-    "difference_from_goal": 10044.0
+    "difference_from_goal": 10064.0
+  },
+  {
+    "title": "The Placensia Family",
+    "url": "https://www.gofundme.com/f/donate-to-the-placensia-family?attribution_id=sl:5a75decd-d1d5-4702-8689-b8d91c2bf3a6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 49522,
+    "goal": 99044.0,
+    "percent": 50,
+    "difference_from_goal": 49522.0
+  },
+  {
+    "title": "Eaton Fire - Help for Liz & Sean!",
+    "url": "https://www.gofundme.com/f/eaton-fire-help-for-liz-sean?attribution_id=sl:5feebfc8-76d0-41df-9b45-fd39d5115375&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10130,
+    "goal": 19862.745098039217,
+    "percent": 51,
+    "difference_from_goal": 9732.745098039217
+  },
+  {
+    "title": "Please Help Support The Lopez Family Recover",
+    "url": "https://www.gofundme.com/f/please-help-the-lopez-family-rebuild?attribution_id=sl%3A401ee4bb-92d3-4eaf-a7df-b5db8d4fe8f3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaYSv15d3N2Qw7QkUyMS_K4P_TabPOIA5Q5erbMX5L3eaMdTxByUBQux6No_aem_yM1Y8hvGNd1UY33PgiNsog",
+    "amount_raised": 9350,
+    "goal": 17980.76923076923,
+    "percent": 52,
+    "difference_from_goal": 8630.76923076923
+  },
+  {
+    "title": "Support the Mejia Family after Altadena Wildfire",
+    "url": "https://www.gofundme.com/f/support-the-mejia-family-after-altadena-wildfire?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3A40339b4d-22ea-48c8-a3be-eafb9f8c1e21",
+    "amount_raised": 8250,
+    "goal": 15865.384615384615,
+    "percent": 52,
+    "difference_from_goal": 7615.384615384615
+  },
+  {
+    "title": "Support the Najera Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-the-najera-family-after-fire-loss?attribution_id=sl:6c206cbf-6ca1-47bb-a77a-8e693ada4138&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 8038,
+    "goal": 14885.185185185184,
+    "percent": 54,
+    "difference_from_goal": 6847.185185185184
   },
   {
     "title": "Trying to help my grandmother start over",
     "url": "https://www.gofundme.com/f/ngcyqw-anything-will-help?attribution_id=sl:6461ec80-7ce2-445f-959b-7e40dee346b1&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 5424,
-    "goal": 10044.444444444445,
-    "percent": 54,
-    "difference_from_goal": 4620.444444444445
-  },
-  {
-    "title": "Support The Partida\u2019s After The Fires",
-    "url": "https://www.gofundme.com/f/eaton-fire-recovery-rebuilding-our-familys-life?fbclid=PAZXh0bgNhZW0CMTEAAaYgllSWPJDP5aabFEmwqzcxzoeUIT9FFXjSKL3Xqzy1PMgiU00NdkZoOeo_aem_LpBOpF_9bPAxFk5SkKlksA",
-    "amount_raised": 14174,
-    "goal": 25770.909090909092,
+    "amount_raised": 5474,
+    "goal": 9952.727272727272,
     "percent": 55,
-    "difference_from_goal": 11596.909090909092
+    "difference_from_goal": 4478.727272727272
   },
   {
     "title": "Help Alyssa rebuild after loosing everything to Eaton fire",
@@ -464,6 +800,14 @@
     "difference_from_goal": 4504.09090909091
   },
   {
+    "title": "Trying to help my grandmother start over",
+    "url": "https://www.gofundme.com/f/ngcyqw-anything-will-help?attribution_id=sl:6461ec80-7ce2-445f-959b-7e40dee346b1&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5474,
+    "goal": 9952.727272727272,
+    "percent": 55,
+    "difference_from_goal": 4478.727272727272
+  },
+  {
     "title": "Help Support the Abuelitos After the Eaton Fire",
     "url": "https://www.gofundme.com/f/support-abuelitos-in-rebuilding-their-lives-after-eaton-fire?attribution_id=sl:ccb2495d-9476-4882-b4fd-e70e369a2b6d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
     "amount_raised": 4472,
@@ -472,84 +816,244 @@
     "difference_from_goal": 3513.7142857142853
   },
   {
+    "title": "Help the Merlan-Hammerli Family Recover After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-the-merlanhammerli-family-recover-after-eaton-fire?attribution_id=sl%3A829927bd-2396-4565-ac9c-57261eaa6748&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaZj71NNJDuwSI3yrtqGryUaFGVeX-IdWguCQKVr8izMlabyca2N2Vi29Bg_aem_gMPFAPMNz2tRpIUvON1bXQ",
+    "amount_raised": 27753,
+    "goal": 49558.92857142857,
+    "percent": 56,
+    "difference_from_goal": 21805.928571428572
+  },
+  {
+    "title": "Help the De La Torre Family Recovery Journey",
+    "url": "https://www.gofundme.com/f/help-the-de-la-torre-family-recovery-journey?attribution_id=sl%3Af7dadf74-3160-447f-b272-81d1452cf804&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_feed&fbclid=PAZXh0bgNhZW0CMTEAAab140290VHZ262mdJXaUZxsJ53yWKTdZ5gPncHca1u3-zobCv-2PKn52FY_aem_M-_i9TXleOyxv6zjLQKmSQ",
+    "amount_raised": 16893,
+    "goal": 30166.071428571428,
+    "percent": 56,
+    "difference_from_goal": 13273.071428571428
+  },
+  {
+    "title": "Ayudemos a la familia Rdgz despu\u00e9s del devastador incendio.",
+    "url": "https://www.gofundme.com/f/ayudemos-a-la-familia-rdgz-despues-del-devastador-incendio?attribution_id=sl:f3edc196-dee2-42e8-9aad-1ef764e764c4&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 6720,
+    "goal": 12000.0,
+    "percent": 56,
+    "difference_from_goal": 5280.0
+  },
+  {
+    "title": "Help Daniel and Jessica Rebuild After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-daniel-and-jessica-rebuild-after-eaton-fire?attribution_id=sl%3Ada30a300-3ad6-423c-8026-d8ed8248cab0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaZfucBL21X1ItBmTIRc_BCzPxEKJXlbRpdAq2mbgvrlvEt-PI1v6F7lS6o_aem_HOIQpkcC5RY3oIg0-GnFlQ",
+    "amount_raised": 2295,
+    "goal": 4026.315789473684,
+    "percent": 57,
+    "difference_from_goal": 1731.3157894736842
+  },
+  {
     "title": "Rebuild Hope for Jimmy & Annika after Tragic Altadena Fires",
     "url": "https://www.gofundme.com/f/rebuild-hope-for-jimmy-annika-after-tragic-altadena-fires?attribution_id=sl:12d25dad-c206-4c72-9ca3-80ba867f68db&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 8412,
-    "goal": 15021.42857142857,
-    "percent": 56,
-    "difference_from_goal": 6609.428571428571
+    "amount_raised": 8547,
+    "goal": 14994.736842105263,
+    "percent": 57,
+    "difference_from_goal": 6447.736842105263
+  },
+  {
+    "title": "Urgent Aid for Webb Family's Fire Recovery",
+    "url": "https://www.gofundme.com/f/urgent-aid-for-webb-familys-fire-recovery?attribution_id=sl:520906d4-0e6f-4714-85ee-b7c3d96d1814&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5700,
+    "goal": 10000.0,
+    "percent": 57,
+    "difference_from_goal": 4300.0
   },
   {
     "title": "Aid the Prosper Family After Wildfire Loss",
     "url": "https://www.gofundme.com/f/aid-the-prosper-family-after-wildfire-loss?attribution_id=sl:f5262c56-d3f6-4606-b942-3576e7cc2bd7&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 8568,
-    "goal": 15031.578947368422,
-    "percent": 57,
-    "difference_from_goal": 6463.578947368422
+    "amount_raised": 8663,
+    "goal": 14936.206896551725,
+    "percent": 58,
+    "difference_from_goal": 6273.206896551725
+  },
+  {
+    "title": "Support Barbara Jenkins",
+    "url": "https://www.gofundme.com/f/restore-hope-for-barbara-jenkins-after-fire?attribution_id=sl%3A5e86606c-35c3-4d7f-9f24-38f9d409576b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 34613,
+    "goal": 59677.58620689655,
+    "percent": 58,
+    "difference_from_goal": 25064.58620689655
   },
   {
     "title": "Help Ms. Sanchez from Willard LEARNS Rebuild Her Home",
     "url": "https://www.gofundme.com/f/help-ms-sanchez-from-willard-learns-rebuild-her-home?attribution_id=sl:75cf78c1-b14c-44cb-b81e-538ec1d489ee&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 8815,
-    "goal": 14940.677966101695,
+    "amount_raised": 8833,
+    "goal": 14971.186440677966,
     "percent": 59,
-    "difference_from_goal": 6125.677966101695
+    "difference_from_goal": 6138.186440677966
   },
   {
-    "title": "Help Jessenia Rebuild After Wildfire Loss",
-    "url": "https://www.gofundme.com/f/help-jessenia-rebuild-after-wildfire-loss?attribution_id=sl:5113833e-a821-4ae8-a00e-f6e168160537&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 3895,
-    "goal": 6491.666666666667,
+    "title": "Support The Partida\u2019s After The Fires",
+    "url": "https://www.gofundme.com/f/eaton-fire-recovery-rebuilding-our-familys-life?fbclid=PAZXh0bgNhZW0CMTEAAaYgllSWPJDP5aabFEmwqzcxzoeUIT9FFXjSKL3Xqzy1PMgiU00NdkZoOeo_aem_LpBOpF_9bPAxFk5SkKlksA",
+    "amount_raised": 15692,
+    "goal": 26153.333333333332,
     "percent": 60,
-    "difference_from_goal": 2596.666666666667
+    "difference_from_goal": 10461.333333333332
+  },
+  {
+    "title": "Fair Oaks School Needs Your Help",
+    "url": "https://www.gofundme.com/f/fair-oaks-school-needs-your-help?attribution_id=sl:461efd3d-19eb-4d63-94fb-d80af701032b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 36095,
+    "goal": 60158.333333333336,
+    "percent": 60,
+    "difference_from_goal": 24063.333333333336
+  },
+  {
+    "title": "fire recovery fund for the Munoz family",
+    "url": "https://www.gofundme.com/f/trying-to-help-my-dad-start-new?attribution_id=sl%3Af528fbf3-50c5-4486-b505-320a66e76ace&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 6005,
+    "goal": 10008.333333333334,
+    "percent": 60,
+    "difference_from_goal": 4003.333333333334
   },
   {
     "title": "Support Jeanette and her family in this Recovery Journey",
     "url": "https://www.gofundme.com/f/support-jeanette-and-her-family-in-this-recovery-journey?attribution_id=sl%3A046c9f14-3d84-4604-8de2-8e44c5e6b096&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaYBW3HhSbZjOhcke_bu1orDjshBjb8jEQHJFOJ_w_a_TKWCGQEG22gSI5g_aem_u35xF85N3GRJi0uhA6ZwFg",
-    "amount_raised": 6102,
-    "goal": 10003.27868852459,
+    "amount_raised": 6112,
+    "goal": 10019.672131147541,
     "percent": 61,
-    "difference_from_goal": 3901.2786885245896
+    "difference_from_goal": 3907.672131147541
   },
   {
     "title": "Help Mu\u00f1oz Family Rebuild After Eaton Fire",
     "url": "https://www.gofundme.com/f/help-munoz-family-rebuild?attribution_id=sl:1b327875-4c0d-49b0-b910-5ab7801d8e72&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 14536,
-    "goal": 23829.508196721312,
+    "amount_raised": 14626,
+    "goal": 23977.049180327867,
     "percent": 61,
-    "difference_from_goal": 9293.508196721312
+    "difference_from_goal": 9351.049180327867
+  },
+  {
+    "title": "Help the Mendoza Family After the Fire",
+    "url": "https://www.gofundme.com/f/help-the-mendoza-family-after-the-fire?fbclid=PAZXh0bgNhZW0CMTEAAaaMxdqgfKyJX9oq90x8D-VssqTRFavfc_Z6NT_9F9uGqZb2nZ947eCcFQ0_aem_Eceao6JPRFuzmJlFSRSdgA",
+    "amount_raised": 12161,
+    "goal": 19936.06557377049,
+    "percent": 61,
+    "difference_from_goal": 7775.065573770491
+  },
+  {
+    "title": "Support Laura and Kids After Devastating Fire",
+    "url": "https://www.gofundme.com/f/support-laura-and-kids-after-devastating-fire?attribution_id=sl:be9fa3b4-d316-4ae6-9d5b-3bba649acd72&utm_campaign=man_ss_icons&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 15247,
+    "goal": 24995.081967213115,
+    "percent": 61,
+    "difference_from_goal": 9748.081967213115
+  },
+  {
+    "title": "Support Desteny's Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-destenys-family-after-fire-loss?attribution_id=sl:243f8218-9253-41c5-b154-907192ca2d55&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4897,
+    "goal": 8027.868852459016,
+    "percent": 61,
+    "difference_from_goal": 3130.868852459016
+  },
+  {
+    "title": "Support the Lomeli family After Fire Loss",
+    "url": "https://www.gofundme.com/f/m4r7g-support-for-parents-after-fire-loss?attribution_id=sl:7f82faab-bfbe-4842-85c3-5f0b9c9f6947&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 3025,
+    "goal": 4959.016393442623,
+    "percent": 61,
+    "difference_from_goal": 1934.0163934426228
+  },
+  {
+    "title": "Support The Partida\u2019s After The Fires",
+    "url": "https://www.gofundme.com/f/eaton-fire-recovery-rebuilding-our-familys-life?fbclid=PAZXh0bgNhZW0CMTEAAaYgllSWPJDP5aabFEmwqzcxzoeUIT9FFXjSKL3Xqzy1PMgiU00NdkZoOeo_aem_LpBOpF_9bPAxFk5SkKlksA",
+    "amount_raised": 15767,
+    "goal": 25847.54098360656,
+    "percent": 61,
+    "difference_from_goal": 10080.54098360656
+  },
+  {
+    "title": "Help Jessenia Get Back on Her Feet After Wildfire Loss",
+    "url": "https://www.gofundme.com/f/help-jessenia-rebuild-after-wildfire-loss?attribution_id=sl:5113833e-a821-4ae8-a00e-f6e168160537&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 4015,
+    "goal": 6475.806451612903,
+    "percent": 62,
+    "difference_from_goal": 2460.8064516129034
+  },
+  {
+    "title": "Eaton fire Aid Daisy's Family After Tragic Loss",
+    "url": "https://www.gofundme.com/f/aid-daisys-family-after-tragic-loss?attribution_id=sl:6d2feb2f-2c02-4b02-944f-a1fd940cc66e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 6800,
+    "goal": 10967.741935483871,
+    "percent": 62,
+    "difference_from_goal": 4167.741935483871
+  },
+  {
+    "title": "Pasadena Fire Victim in Need of Your Help",
+    "url": "https://www.gofundme.com/f/pasadena-fire-victims-need-your-help?fbclid=PAZXh0bgNhZW0CMTEAAabHAlklzU__Xi5MUC0-dkawrmPT2EDJsjOojI9KphwTVai6b5wD0Q870Po_aem_pXHl6UM6JoFhAbsCBTy2iQ",
+    "amount_raised": 6205,
+    "goal": 10008.064516129032,
+    "percent": 62,
+    "difference_from_goal": 3803.064516129032
+  },
+  {
+    "title": "Eaton Fire Took Our Home\u2014Please Help Us Recover",
+    "url": "https://www.gofundme.com/f/eaton-fire-took-our-homeplease-help-us-rebuild?attribution_id=sl%3A90297055-8c06-46d7-9d1c-e23c101fa222&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 27760,
+    "goal": 44774.1935483871,
+    "percent": 62,
+    "difference_from_goal": 17014.1935483871
   },
   {
     "title": "Help Kandice's Family Recover from Devastating Fire",
     "url": "https://www.gofundme.com/f/help-kandices-family-recover-from-devastating-fire?attribution_id=sl:1a130bec-0c7a-4383-8594-13df1568ff5d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 30999,
-    "goal": 49998.3870967742,
-    "percent": 62,
-    "difference_from_goal": 18999.387096774197
+    "amount_raised": 31569,
+    "goal": 50109.52380952381,
+    "percent": 63,
+    "difference_from_goal": 18540.52380952381
+  },
+  {
+    "title": "Your contributions will help us through this rough time",
+    "url": "https://www.gofundme.com/f/caya2-support-crystals-family-after-devastating-fire?fbclid=PAZXh0bgNhZW0CMTEAAab5bIrfxiYzpEgGvdl0fnWIftE5exDlpVyoDsSaUYgi7oOlsjNgfPn1yUQ_aem_dpB1-eody5ENDUdfg6xGpw",
+    "amount_raised": 3155,
+    "goal": 5007.936507936508,
+    "percent": 63,
+    "difference_from_goal": 1852.936507936508
   },
   {
     "title": "Support The Gomez Family After Fire",
     "url": "https://www.gofundme.com/f/support-tia-and-tios-family-after-fire?attribution_id=sl:6de6f2d3-1004-4906-9dd1-c525b7d8921b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 12636,
-    "goal": 20057.14285714286,
-    "percent": 63,
-    "difference_from_goal": 7421.142857142859
+    "amount_raised": 12776,
+    "goal": 19962.5,
+    "percent": 64,
+    "difference_from_goal": 7186.5
+  },
+  {
+    "title": "Help Miriam Hermoso Rebuild After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-miriam-hermoso-rebuild-after-eaton-fire?attribution_id=sl%3A8ad80bf4-59de-4a20-91a3-ccfe74e2c6aa&utm_campaign=natman_sharesheet_dash&utm_content=amp10_t2&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4772,
+    "goal": 7456.25,
+    "percent": 64,
+    "difference_from_goal": 2684.25
+  },
+  {
+    "title": "Support for Cervantes Family: Lost Everything",
+    "url": "https://www.gofundme.com/f/support-for-cervantes-family-lost-everything",
+    "amount_raised": 16093,
+    "goal": 25145.3125,
+    "percent": 64,
+    "difference_from_goal": 9052.3125
   },
   {
     "title": "Together for the Bagby Family: Fire Recovery Fund",
     "url": "https://www.gofundme.com/f/together-for-the-bagby-family-fire-recovery-fund?attribution_id=sl:ab15613c-d3ad-48f5-bac0-87e1d5fe5ade&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 19261,
-    "goal": 30095.3125,
-    "percent": 64,
-    "difference_from_goal": 10834.3125
+    "amount_raised": 19361,
+    "goal": 29786.153846153848,
+    "percent": 65,
+    "difference_from_goal": 10425.153846153848
   },
   {
     "title": "Help the Lima Family Rebuild After Fire",
     "url": "https://www.gofundme.com/f/help-the-lima-family-rebuild-after-fire?attribution_id=sl:671d9886-d42e-4385-bcce-bcfac5e08660&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 32121,
-    "goal": 50189.0625,
-    "percent": 64,
-    "difference_from_goal": 18068.0625
+    "amount_raised": 32321,
+    "goal": 49724.61538461538,
+    "percent": 65,
+    "difference_from_goal": 17403.615384615383
   },
   {
     "title": "Support the Henderson Family After Eaton Fire",
@@ -560,44 +1064,76 @@
     "difference_from_goal": 10532.307692307691
   },
   {
-    "title": "Help Rebuild Moriah\u2019s Life After Fire",
-    "url": "https://www.gofundme.com/f/help-rebuild-her-life-after-eaton-canyon-fires?attribution_id=sl:fe65d6c8-6120-4bda-810d-d467e603bc19&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 22929,
-    "goal": 34740.90909090909,
-    "percent": 66,
-    "difference_from_goal": 11811.909090909088
+    "title": "Support Carmen Melin's Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-carmen-melins-family-after-fire-loss?attribution_id=sl:d781822f-c4e3-435a-b2e9-eed73313b93e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 19460,
+    "goal": 29938.46153846154,
+    "percent": 65,
+    "difference_from_goal": 10478.461538461539
   },
   {
-    "title": "Montanez, Stone & Davila Families' Fire Recovery Effort",
-    "url": "https://www.gofundme.com/f/help-dani-bryan-rebuild-after-losing-their-home-in-fire?attribution_id=sl:4cfa39bc-b939-478f-80bc-c9732e5125e8&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 86043,
-    "goal": 130368.18181818182,
+    "title": "Aid Cristal's Family in Fire Recovery",
+    "url": "https://www.gofundme.com/f/aid-cristals-family-in-fire-recovery?attribution_id=sl:426b9304-4bdd-442a-b555-17582df9d75f&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 5816,
+    "goal": 8947.692307692309,
+    "percent": 65,
+    "difference_from_goal": 3131.6923076923085
+  },
+  {
+    "title": "Help Rebuild Moriah\u2019s Life After Fire",
+    "url": "https://www.gofundme.com/f/help-rebuild-her-life-after-eaton-canyon-fires?attribution_id=sl:fe65d6c8-6120-4bda-810d-d467e603bc19&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 23229,
+    "goal": 35195.454545454544,
     "percent": 66,
-    "difference_from_goal": 44325.18181818182
+    "difference_from_goal": 11966.454545454544
+  },
+  {
+    "title": "Support my family rebuild from the Eaton fire",
+    "url": "https://www.gofundme.com/f/rebuild-a-familys-life-after-eaton-fire-tragedy?attribution_id=sl:3323fd04-1adb-48d4-b7d1-bb1db86f5b07&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 6585,
+    "goal": 9977.272727272728,
+    "percent": 66,
+    "difference_from_goal": 3392.272727272728
+  },
+  {
+    "title": "Help the Ochoa Family recover after Altadena Fire",
+    "url": "https://www.gofundme.com/f/help-wendy-ochoa-rebuild-after-eaton-fire?fbclid=PAZXh0bgNhZW0CMTEAAaYBXUqr5dCMGD-3mISwaRez2a3kG1V1AV9aBcnmmNNNPgs4hrfeXUxzDjo_aem_XR5J4uS4cXbnVuFQoWXsFQ",
+    "amount_raised": 13248,
+    "goal": 20072.727272727272,
+    "percent": 66,
+    "difference_from_goal": 6824.727272727272
+  },
+  {
+    "title": "Help Rebuild Moriah\u2019s Life After Fire",
+    "url": "https://www.gofundme.com/f/help-rebuild-her-life-after-eaton-canyon-fires?attribution_id=sl:fe65d6c8-6120-4bda-810d-d467e603bc19&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 23229,
+    "goal": 35195.454545454544,
+    "percent": 66,
+    "difference_from_goal": 11966.454545454544
   },
   {
     "title": "Help Adriana\u2019s Family Start Over After Eaton Fire\u2764\ufe0f\u200d",
     "url": "https://www.gofundme.com/f/help-adrianas-family-rebuild-after-eaton-fire?attribution_id=sl:674a25e3-6fae-4853-9ebe-fd6c8fea3a7e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 10010,
-    "goal": 14940.298507462687,
+    "amount_raised": 10075,
+    "goal": 15037.313432835821,
     "percent": 67,
-    "difference_from_goal": 4930.298507462687
+    "difference_from_goal": 4962.313432835821
   },
   {
-    "title": "Support Santiago: A Hero Without Tools",
-    "url": "https://www.gofundme.com/f/support-santiago-a-hero-without-tools?attribution_id=sl:b991b4a5-4c4f-4c2a-ad3b-e830c77c3aec&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 10065,
-    "goal": 15022.388059701492,
+    "title": "Support The Mayorga and Jimenez Family After Eaton Fire Loss",
+    "url": "https://www.gofundme.com/f/p6c83-support-our-family-after-eaton-fire-loss?attribution_id=sl:c5c40ac9-3b33-4a5c-9226-137aba3a685d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 20050,
+    "goal": 29925.373134328358,
     "percent": 67,
-    "difference_from_goal": 4957.388059701492
+    "difference_from_goal": 9875.373134328358
   },
   {
-    "title": "Help Maria Moran After Losing Her Home.",
-    "url": "https://www.gofundme.com/f/help-maria-moran-rebuild-after-fire-loss?attribution_id=sl:dd3b2803-74d8-4348-8458-e03de8545d4c&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=sms",
-    "amount_raised": 13433,
-    "goal": 20049.253731343284,
+    "title": "Help Adriana\u2019s Family Start Over After Eaton Fire\u2764\ufe0f\u200d",
+    "url": "https://www.gofundme.com/f/help-adrianas-family-rebuild-after-eaton-fire?attribution_id=sl:674a25e3-6fae-4853-9ebe-fd6c8fea3a7e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10075,
+    "goal": 15037.313432835821,
     "percent": 67,
-    "difference_from_goal": 6616.253731343284
+    "difference_from_goal": 4962.313432835821
   },
   {
     "title": "Support Brenda After Eaton Canyon Fire",
@@ -608,12 +1144,36 @@
     "difference_from_goal": 3856.4705882352937
   },
   {
+    "title": "Montanez, Stone & Davila Families' Fire Recovery Effort",
+    "url": "https://www.gofundme.com/f/help-dani-bryan-rebuild-after-losing-their-home-in-fire?attribution_id=sl:4cfa39bc-b939-478f-80bc-c9732e5125e8&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 88623,
+    "goal": 130327.94117647059,
+    "percent": 68,
+    "difference_from_goal": 41704.94117647059
+  },
+  {
     "title": "Help the Harth Family After Fire Loss",
     "url": "https://www.gofundme.com/f/help-the-harth-family-after-fire-loss?attribution_id=sl:99a98852-af26-4f97-84d8-5d8f7b07bd39&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 33895,
-    "goal": 49845.58823529412,
+    "amount_raised": 33995,
+    "goal": 49992.64705882353,
     "percent": 68,
-    "difference_from_goal": 15950.588235294119
+    "difference_from_goal": 15997.647058823532
+  },
+  {
+    "title": "Support Santiago: A Hero Without Tools",
+    "url": "https://www.gofundme.com/f/support-santiago-a-hero-without-tools?attribution_id=sl:b991b4a5-4c4f-4c2a-ad3b-e830c77c3aec&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10165,
+    "goal": 14948.529411764706,
+    "percent": 68,
+    "difference_from_goal": 4783.529411764706
+  },
+  {
+    "title": "Help Maria Moran After Losing Her Home.",
+    "url": "https://www.gofundme.com/f/help-maria-moran-rebuild-after-fire-loss?attribution_id=sl:dd3b2803-74d8-4348-8458-e03de8545d4c&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=sms",
+    "amount_raised": 13566,
+    "goal": 19950.0,
+    "percent": 68,
+    "difference_from_goal": 6384.0
   },
   {
     "title": "Pregnant Mom & Kids Need Your Help",
@@ -624,12 +1184,60 @@
     "difference_from_goal": 1431.0588235294117
   },
   {
-    "title": "Support Altadena\u2019s Family: Homes Lost in Fires",
-    "url": "https://www.gofundme.com/f/altadena-fire-victims?attribution_id=sl:ffac6f03-c8a5-47bd-9dcd-9f68d708c363&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 10572,
-    "goal": 15102.857142857143,
-    "percent": 70,
-    "difference_from_goal": 4530.857142857143
+    "title": "Help our Grandparents rebuild after Eaton Fire",
+    "url": "https://www.gofundme.com/f/h2n2p-help-our-grandparents-rebuild-after-eaton-fire?attribution_id=sl:58ad603b-47f0-4ecd-9130-63065e5697c3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 6776,
+    "goal": 9964.70588235294,
+    "percent": 68,
+    "difference_from_goal": 3188.7058823529405
+  },
+  {
+    "title": "Support My Sister's Family Post-Fire Loss Eaton Canyon",
+    "url": "https://www.gofundme.com/f/support-my-sisters-family-postfire-loss?attribution_id=sl:c0f834dc-1d1d-4b0a-adf8-8c7f391ae571&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10129,
+    "goal": 14895.588235294117,
+    "percent": 68,
+    "difference_from_goal": 4766.588235294117
+  },
+  {
+    "title": "Support The Phillips Family After Eaton Canyon Fire",
+    "url": "https://www.gofundme.com/f/support-the-phillips-family-after-eaton-canyon-fire?attribution_id=sl:4dfd1afa-1afa-4d41-bb79-88c28dd6e3d0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 13535,
+    "goal": 19904.41176470588,
+    "percent": 68,
+    "difference_from_goal": 6369.411764705881
+  },
+  {
+    "title": "Support Brenda After Eaton Canyon Fire",
+    "url": "https://www.gofundme.com/f/support-brenda-after-eaton-canyon-fires?attribution_id=sl:cc10d838-45f2-4534-94b1-2fa55bfe578f&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 8195,
+    "goal": 12051.470588235294,
+    "percent": 68,
+    "difference_from_goal": 3856.4705882352937
+  },
+  {
+    "title": "Help Marc Rebuild After Wildfire Loss",
+    "url": "https://www.gofundme.com/f/help-marc-rebuild-after-wildfire-loss?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade2cb723-413b-4233-841d-b7fe77f98b92&fbclid=PAZXh0bgNhZW0CMTEAAaa6ujXN4Wixp8j2540lDKW1sahFOMT38wJGNZve16hFQhZ9iB67NjEKYro_aem_hdxDvEhdRMa-IM39WNuA3g",
+    "amount_raised": 5207,
+    "goal": 7546.376811594203,
+    "percent": 69,
+    "difference_from_goal": 2339.376811594203
+  },
+  {
+    "title": "Support Jazmin's Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-jazmins-family-after-fire-loss?attribution_id=sl:f1afcc18-5ced-4ca4-9a1b-795b0283a333&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10333,
+    "goal": 14975.36231884058,
+    "percent": 69,
+    "difference_from_goal": 4642.36231884058
+  },
+  {
+    "title": "Help My Family Rebuild After Fire",
+    "url": "https://www.gofundme.com/f/atd4kw-help-my-family-rebuild-after-fire?utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Af667a989-5ac5-45b6-9935-e61575fcf779",
+    "amount_raised": 10380,
+    "goal": 15043.478260869566,
+    "percent": 69,
+    "difference_from_goal": 4663.478260869566
   },
   {
     "title": "60-Year Family Home Lost in Eaton Fire",
@@ -642,10 +1250,18 @@
   {
     "title": "Help Maria and Jose Navigate Life After Fire",
     "url": "https://www.gofundme.com/f/help-maria-and-jose-navigate-life-after-fire?attribution_id=sl:9111ee6e-adfa-4bf8-99f1-4734af61e2b5&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 14016,
-    "goal": 20022.85714285714,
+    "amount_raised": 14021,
+    "goal": 20030.0,
     "percent": 70,
-    "difference_from_goal": 6006.857142857141
+    "difference_from_goal": 6009.0
+  },
+  {
+    "title": "Support our family to recover from the Eaton Fire",
+    "url": "https://www.gofundme.com/f/altadena-fire-victims?attribution_id=sl:ffac6f03-c8a5-47bd-9dcd-9f68d708c363&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 10612,
+    "goal": 14946.478873239437,
+    "percent": 71,
+    "difference_from_goal": 4334.478873239437
   },
   {
     "title": "Help Ethan and Angelina Rebuild Life After Wildfire",
@@ -656,20 +1272,68 @@
     "difference_from_goal": 3475.915492957747
   },
   {
-    "title": "Help 119 W Altadena Dr",
-    "url": "https://www.gofundme.com/f/help-119-w-altadena-dr?attribution_id=sl%3Af2b2a713-64ed-4b80-bb41-c9187c9a9269&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaZSXZtjCays3gCv9740AdA2eOGUbnNAQf8FAylLWghNbN2o8NfNei_J64I_aem_Pd0h57GlgQ0HpM2hOpnn2Q",
-    "amount_raised": 14602,
-    "goal": 20002.739726027397,
-    "percent": 73,
-    "difference_from_goal": 5400.739726027397
+    "title": "Support My Mom After Losing Her Home in the LA",
+    "url": "https://www.gofundme.com/f/ayuda-para-ayudar-a-mi-mama-gloria-mendez-quien-perdio-todo?attribution_id=sl%3A19d64bed-167c-40e2-8200-2dee590ce573&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaYETjQmSe6tiRK5DlY06_9GCYmvdHRjcGMBRMBN_FS4DwQywis6y49vtqM_aem_6RutYVZ5IPAY_6AhyDMgDw",
+    "amount_raised": 100397,
+    "goal": 139440.27777777778,
+    "percent": 72,
+    "difference_from_goal": 39043.27777777778
   },
   {
-    "title": "Help Bilandzija Family After Loss of their Home Altadena, CA",
-    "url": "https://www.gofundme.com/f/help-the-bilandzija-family-rebuild-their-lives-in-altadena?attribution_id=sl:76bc7633-0f76-4733-a1a2-797d905f0f30&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 58800,
-    "goal": 75384.61538461539,
-    "percent": 78,
-    "difference_from_goal": 16584.61538461539
+    "title": "Help Cristina and Steve Rebuild After the Eaton Canyon Fire",
+    "url": "https://www.gofundme.com/f/help-cristina-and-steve-rebuild-after-the-eaton-canyon-fire?fbclid=PAZXh0bgNhZW0CMTEAAabF3ZZjBh2t1kuBFNaLvKYnsVTm2tcELWUnhbdSDQqjPRIZxdSEWzN3mbM_aem_VoamN9mWC",
+    "amount_raised": 35942,
+    "goal": 49919.444444444445,
+    "percent": 72,
+    "difference_from_goal": 13977.444444444445
+  },
+  {
+    "title": "Help 119 W Altadena Dr",
+    "url": "https://www.gofundme.com/f/help-119-w-altadena-dr?attribution_id=sl%3Af2b2a713-64ed-4b80-bb41-c9187c9a9269&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaZSXZtjCays3gCv9740AdA2eOGUbnNAQf8FAylLWghNbN2o8NfNei_J64I_aem_Pd0h57GlgQ0HpM2hOpnn2Q",
+    "amount_raised": 14679,
+    "goal": 20108.219178082192,
+    "percent": 73,
+    "difference_from_goal": 5429.219178082192
+  },
+  {
+    "title": "Assisting Coldivar\u2019s family home",
+    "url": "https://www.gofundme.com/f/assist-nayleens-family-after-fire?attribution_id=sl:a6f0bc1b-784c-400b-9345-afb9e068a6b6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4805,
+    "goal": 6493.243243243243,
+    "percent": 74,
+    "difference_from_goal": 1688.2432432432433
+  },
+  {
+    "title": "Assist Maria's Family After Tragic Fire",
+    "url": "https://www.gofundme.com/f/assist-marias-family-after-tragic-fire?attribution_id=sl:f3914757-93ef-419c-86f6-a4a4426b1a12&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 4410,
+    "goal": 5959.459459459459,
+    "percent": 74,
+    "difference_from_goal": 1549.4594594594591
+  },
+  {
+    "title": "Support Jaslene's Family-Eaton Fire",
+    "url": "https://www.gofundme.com/f/support-jaslenes-familyeaton-fire?attribution_id=sl:55d6a6f9-bf84-4c64-8d8c-4441b0490e90&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 9725,
+    "goal": 12966.666666666666,
+    "percent": 75,
+    "difference_from_goal": 3241.666666666666
+  },
+  {
+    "title": "Aid the Ramirez Velasquez Family After Fire Tragedy",
+    "url": "https://www.gofundme.com/f/aid-the-ramirez-family-after-fire-tragedy?attribution_id=sl%3A853731c1-3234-427e-9a31-dd02ca4b1087&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 14940,
+    "goal": 19920.0,
+    "percent": 75,
+    "difference_from_goal": 4980.0
+  },
+  {
+    "title": "Support Alejandro's Family After Wildfire",
+    "url": "https://www.gofundme.com/f/support-alejandros-family-after-wildfire?attribution_id=sl:91fdbc47-e9a4-4937-a18d-3c78b6b799e0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 2680,
+    "goal": 3480.5194805194806,
+    "percent": 77,
+    "difference_from_goal": 800.5194805194806
   },
   {
     "title": "Help the Tello family restart after this devastating fire",
@@ -680,52 +1344,212 @@
     "difference_from_goal": 5021.392405063292
   },
   {
-    "title": "St. Elizabeth's Students Need Your Support",
-    "url": "https://www.gofundme.com/f/st-elizabeths-students-need-your-support?attribution_id=sl:795be8f2-5c19-439e-9b6c-86d29a5833dd&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 8700,
-    "goal": 11012.658227848102,
+    "title": "Help Bilandzija Family After Loss of their Home Altadena, CA",
+    "url": "https://www.gofundme.com/f/help-the-bilandzija-family-rebuild-their-lives-in-altadena?attribution_id=sl:76bc7633-0f76-4733-a1a2-797d905f0f30&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 59460,
+    "goal": 75265.82278481012,
     "percent": 79,
-    "difference_from_goal": 2312.658227848102
+    "difference_from_goal": 15805.822784810123
   },
   {
-    "title": "Support for Beltran Lopez After Fire Loss",
-    "url": "https://www.gofundme.com/f/support-for-beltran-lopez-after-fire-loss?attribution_id=sl:fb2e4a0a-d8c5-48fb-a79e-0288f01bb511&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 12835,
-    "goal": 16043.75,
-    "percent": 80,
-    "difference_from_goal": 3208.75
+    "title": "Support Hector's Family After Devastating Fire",
+    "url": "https://www.gofundme.com/f/support-hectors-family-after-devastating-fire?attribution_id=sl:2e857809-92ab-41e2-8c53-5519707ad3f6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7115,
+    "goal": 9006.32911392405,
+    "percent": 79,
+    "difference_from_goal": 1891.32911392405
+  },
+  {
+    "title": "Help the Tello family restart after this devastating fire",
+    "url": "https://www.gofundme.com/f/help-the-tello-family-after-eaton-fire?attribution_id=sl:81d9d4b6-4ae7-4fe4-9627-cb4d87a6e0e5&utm_campaign=man_sharesheet_dash&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 18950,
+    "goal": 23987.3417721519,
+    "percent": 79,
+    "difference_from_goal": 5037.3417721519
   },
   {
     "title": "Help the Jacobo family , Rebuild there life after wildfire .",
     "url": "https://www.gofundme.com/f/help-the-jacobo-family-rebuild-there-life-after-wildfire?attribution_id=sl:3567e441-2e7d-4381-9d20-7bdad399cfa0&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 19922,
-    "goal": 24902.5,
+    "amount_raised": 19972,
+    "goal": 24965.0,
     "percent": 80,
-    "difference_from_goal": 4980.5
+    "difference_from_goal": 4993.0
+  },
+  {
+    "title": "Support the Hernandez Family After Eaton Canyon Fire",
+    "url": "https://www.gofundme.com/f/support-the-hernandez-family-after-eaton-canyon-fire?attribution_id=sl:909c79bf-2184-4bfd-9b23-7e3c0df340a2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 24029,
+    "goal": 30036.25,
+    "percent": 80,
+    "difference_from_goal": 6007.25
+  },
+  {
+    "title": "Support for Jimmy, Jeanette, and Kids",
+    "url": "https://www.gofundme.com/f/help-the-munoz-cardenas-family-rebuild-after-eaton-fires?attribution_id=sl:0b7512b3-8631-476d-a59a-d80a0a6596ff&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 23909,
+    "goal": 29886.25,
+    "percent": 80,
+    "difference_from_goal": 5977.25
+  },
+  {
+    "title": "Support for Beltran Lopez After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-for-beltran-lopez-after-fire-loss?attribution_id=sl:fb2e4a0a-d8c5-48fb-a79e-0288f01bb511&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 12980,
+    "goal": 16024.691358024691,
+    "percent": 81,
+    "difference_from_goal": 3044.691358024691
+  },
+  {
+    "title": "Apoyando a la familia De La Torre despu\u00e9s del Eaton fire.",
+    "url": "https://www.gofundme.com/f/apoyando-a-la-familia-de-la-torre-a-reiniciar-su-vida?attribution_id=sl:38e246f4-6530-4d74-a932-d3bbcc1a868e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 36472,
+    "goal": 45027.16049382716,
+    "percent": 81,
+    "difference_from_goal": 8555.160493827163
+  },
+  {
+    "title": "Help Rayne recover from Eaton fire",
+    "url": "https://www.gofundme.com/f/help-rayne-recover-from-eaton-fire?fbclid=PAZXh0bgNhZW0CMTEAAab6ECrp8wpn5V-9kBD2EoooKDJjGdk0uHo1gge7qwKgpcDq3HopnRqItGc_aem_7A_Wy48-ZgKiFtbeX254RQ",
+    "amount_raised": 12199,
+    "goal": 15060.493827160493,
+    "percent": 81,
+    "difference_from_goal": 2861.4938271604933
+  },
+  {
+    "title": "Support Jacqueline's Family After Wildfire",
+    "url": "https://www.gofundme.com/f/support-jacquelines-family-after-wildfire?attribution_id=sl%3Aab404cc6-3156-4d16-bd1e-a486aac2523c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaZ7tEQ0tLnwTGsdnpfJQ3Vc5SglzjqTZT3zrssozuG77Gea79u-X9FGIkQ_aem_Presxod5dZlyyEkK1KUP7A",
+    "amount_raised": 8108,
+    "goal": 10009.876543209877,
+    "percent": 81,
+    "difference_from_goal": 1901.8765432098771
+  },
+  {
+    "title": "St. Elizabeth's Students Need Your Support",
+    "url": "https://www.gofundme.com/f/st-elizabeths-students-need-your-support?attribution_id=sl:795be8f2-5c19-439e-9b6c-86d29a5833dd&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 9000,
+    "goal": 10975.609756097561,
+    "percent": 82,
+    "difference_from_goal": 1975.6097560975613
+  },
+  {
+    "title": "Help the Larios family after CA Wildfires",
+    "url": "https://www.gofundme.com/f/help-the-larios-family-after-ca-wildfires?attribution_id=sl:8ec5c69f-7aaf-4bd5-ba86-83023a3d80c8&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 16475,
+    "goal": 20091.463414634145,
+    "percent": 82,
+    "difference_from_goal": 3616.463414634145
+  },
+  {
+    "title": "Support De La Torre family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-de-la-torre-after-fire-loss?attribution_id=sl:1bae7537-d76b-4727-93bd-11e26790d5be&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 24745,
+    "goal": 30176.829268292684,
+    "percent": 82,
+    "difference_from_goal": 5431.829268292684
+  },
+  {
+    "title": "Help Familia Nerey Farias",
+    "url": "https://www.gofundme.com/f/help-familia-nerey-rebuild-after-fire?attribution_id=sl:de53f88c-3d7c-45b1-8dfe-810695342d0d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 12235,
+    "goal": 14920.731707317073,
+    "percent": 82,
+    "difference_from_goal": 2685.7317073170725
+  },
+  {
+    "title": "Help Giselle's Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/help-giselles-family-after-fire-loss?attribution_id=sl:06484889-b937-4803-8f43-0e1228f82348&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5763,
+    "goal": 7028.048780487805,
+    "percent": 82,
+    "difference_from_goal": 1265.0487804878048
+  },
+  {
+    "title": "Help the Santoro Family After Fire in Altadena, CA",
+    "url": "https://www.gofundme.com/f/help-the-santoro-family-rebuild-after-altadena-ca-fire?qid=32cd381e7fbd26a6764d1bc02a075ed7",
+    "amount_raised": 16490,
+    "goal": 20109.756097560974,
+    "percent": 82,
+    "difference_from_goal": 3619.756097560974
   },
   {
     "title": "Help Our Family Recover After Losing Everything",
     "url": "https://www.gofundme.com/f/help-our-family-rebuild-our-lives-and-our-home-postfire",
-    "amount_raised": 99495,
-    "goal": 119873.49397590362,
+    "amount_raised": 99545,
+    "goal": 119933.73493975903,
     "percent": 83,
-    "difference_from_goal": 20378.49397590362
+    "difference_from_goal": 20388.73493975903
+  },
+  {
+    "title": "Hope for Marquez Family Post-Fire",
+    "url": "https://www.gofundme.com/f/rebuild-hope-for-dannys-family-postfire?fbclid=PAZXh0bgNhZW0CMTEAAaY9G2sr6n6wV7zdYQo48Zn1xiDeDCKtMGVnMlnYpIPMcRWuVww_mNnd2LI_aem_0CGhGqrUP7YSG6zoyPWo8Q",
+    "amount_raised": 15005,
+    "goal": 18078.31325301205,
+    "percent": 83,
+    "difference_from_goal": 3073.3132530120492
+  },
+  {
+    "title": "Support Jeff and Susan Maljian After Wildfire Loss",
+    "url": "https://www.gofundme.com/f/support-jeff-and-susan-maljian-after-wildfire-loss?attribution_id=sl:53675986-c35f-4a6d-b57e-22d5e61a6932&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 82737,
+    "goal": 99683.13253012048,
+    "percent": 83,
+    "difference_from_goal": 16946.132530120478
+  },
+  {
+    "title": "Help Our Family Recover After Losing Everything",
+    "url": "https://www.gofundme.com/f/help-our-family-rebuild-our-lives-and-our-home-postfire",
+    "amount_raised": 99545,
+    "goal": 119933.73493975903,
+    "percent": 83,
+    "difference_from_goal": 20388.73493975903
   },
   {
     "title": "Rebuild Hope for the Bugarin Family",
     "url": "https://www.gofundme.com/f/rebuild-hope-for-the-bugarin-family?attribution_id=sl:875122d5-0883-46a9-984a-20c6d09f4f0e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 8380,
-    "goal": 9976.190476190477,
+    "amount_raised": 8430,
+    "goal": 10035.714285714286,
     "percent": 84,
-    "difference_from_goal": 1596.190476190477
+    "difference_from_goal": 1605.7142857142862
+  },
+  {
+    "title": "Support Miliana Granholm-Sharko's Family After Fire",
+    "url": "https://www.gofundme.com/f/support-mili-granholms-family-after-fire?attribution_id=sl:356f49aa-75d6-4ab2-a6b0-cf50ebe6e4e4&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 12580,
+    "goal": 14976.190476190477,
+    "percent": 84,
+    "difference_from_goal": 2396.190476190477
+  },
+  {
+    "title": "Support the Gamble and Brookshire Family",
+    "url": "https://www.gofundme.com/f/rebuild-hope-for-the-gamble-and-brookshire-family?attribution_id=sl:b68fbfbf-703d-4244-aa50-9839c74cc0ea&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 16734,
+    "goal": 19921.428571428572,
+    "percent": 84,
+    "difference_from_goal": 3187.4285714285725
   },
   {
     "title": "Help Us Recover After SoCal Fire Loss",
     "url": "https://www.gofundme.com/f/help-us-rebuild-after-socal-fire-loss?attribution_id=sl:53b47487-2702-452e-8bf4-c79e3cd9aa15&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 6265,
-    "goal": 7458.333333333333,
-    "percent": 84,
-    "difference_from_goal": 1193.333333333333
+    "amount_raised": 6360,
+    "goal": 7482.35294117647,
+    "percent": 85,
+    "difference_from_goal": 1122.3529411764703
+  },
+  {
+    "title": "Support Stephany\u2019s Family Get Back On Their Feet",
+    "url": "https://www.gofundme.com/f/support-stephany-bobadillas-family-home-loss?attribution_id=sl:70e5f26b-54b6-4a4a-8061-e01c3656e279&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 5515,
+    "goal": 6488.235294117647,
+    "percent": 85,
+    "difference_from_goal": 973.2352941176468
+  },
+  {
+    "title": "Help Leticia Vega Rebuild After Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-leticia-vega-rebuild-after-eaton-fire?attribution_id=sl:29f54d87-27aa-4932-b5c8-379fb4084f7a&utm_campaign=pd_ss_icons&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 23809,
+    "goal": 28010.58823529412,
+    "percent": 85,
+    "difference_from_goal": 4201.588235294119
   },
   {
     "title": "From Fire to Hope: Altadena Recovery",
@@ -736,52 +1560,108 @@
     "difference_from_goal": 419.3488372093025
   },
   {
+    "title": "Support for the Townsend Family's New Start",
+    "url": "https://www.gofundme.com/f/support-for-the-townsend-familys-new-start?attribution_id=sl%3Aa1b677b3-e0af-4054-a24f-8216f659812d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story&fbclid=PAZXh0bgNhZW0CMTEAAaYbigwRGpJQl9KttDlNNU5JlbKzNU_tlDWgxUta1oWvva_T1TaF62KeEAQ_aem_UzU2WT-XgoSmmRlEzG_66g",
+    "amount_raised": 30247,
+    "goal": 35170.93023255814,
+    "percent": 86,
+    "difference_from_goal": 4923.9302325581375
+  },
+  {
     "title": "Help Javi and Liz After Eaton Fire",
     "url": "https://www.gofundme.com/f/relief-fund-for-javi-and-liz-after-eaton-fire?attribution_id=sl:2b662a05-eac3-4722-9625-988130395e5f&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 48870,
-    "goal": 54910.11235955056,
+    "amount_raised": 48945,
+    "goal": 54994.38202247191,
     "percent": 89,
-    "difference_from_goal": 6040.112359550563
+    "difference_from_goal": 6049.382022471909
   },
   {
     "title": "Family of 4 lost everything in the Eaton fires",
     "url": "https://www.gofundme.com/f/family-of-4-lost-everything-in-the-eaton-fires?attribution_id=sl%3Ae51c9ccd-6a9d-4a19-85b0-886b9d45102e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaZC1RuM38_TKvq4sPV9c4pzbnXXZHS_CpGsWZfur_ucveTf1VOm4Wo-7ZA_aem_MpBh3o9VGyzCbKeEWJ095g",
-    "amount_raised": 266411,
-    "goal": 299338.202247191,
+    "amount_raised": 266881,
+    "goal": 299866.2921348315,
     "percent": 89,
-    "difference_from_goal": 32927.20224719099
+    "difference_from_goal": 32985.292134831485
+  },
+  {
+    "title": "Help Us recover after the Eaton wildfire",
+    "url": "https://www.gofundme.com/f/help-us-rebuild-after-eaton-wildfire?attribution_id=sl:50fdd80a-92bb-4e78-a6eb-87d8bc43e2d6&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 12425,
+    "goal": 13960.67415730337,
+    "percent": 89,
+    "difference_from_goal": 1535.6741573033705
+  },
+  {
+    "title": "Support Pat & family after the Eaton Fire",
+    "url": "https://www.gofundme.com/f/support-pat-family-after-losing-everything-in-eaton-fire?attribution_id=sl:44e8caa9-97b8-4d8a-a3f0-d5058d3c4272&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 12585,
+    "goal": 13983.333333333334,
+    "percent": 90,
+    "difference_from_goal": 1398.333333333334
+  },
+  {
+    "title": "Support Nathan's Family After Fire Loss",
+    "url": "https://www.gofundme.com/f/support-nathans-family-after-fire-loss?attribution_id=sl:7afff500-c255-4eee-81ce-334c4d1890ea&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 7165,
+    "goal": 7961.111111111111,
+    "percent": 90,
+    "difference_from_goal": 796.1111111111113
+  },
+  {
+    "title": "Aid for Matt and Scotlyn's Pottery Revival",
+    "url": "https://www.gofundme.com/f/aid-for-matt-and-scotlyns-pottery-revival?attribution_id=sl:bd823c27-aa20-485a-9366-c3f5e8ec8660&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 6402,
+    "goal": 7035.1648351648355,
+    "percent": 91,
+    "difference_from_goal": 633.1648351648355
   },
   {
     "title": "Support for Grandma Maria after fire loss.",
     "url": "https://www.gofundme.com/f/support-for-maria-nuno-after-fire-loss?attribution_id=sl:eaefa992-fefb-4c4c-bd86-e9b0415dd80c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 3165,
-    "goal": 3516.6666666666665,
-    "percent": 90,
-    "difference_from_goal": 351.6666666666665
+    "amount_raised": 3225,
+    "goal": 3505.4347826086955,
+    "percent": 92,
+    "difference_from_goal": 280.4347826086955
   },
   {
     "title": "Support The Ramirez Family after Fire Loss",
     "url": "https://www.gofundme.com/f/support-the-ramirez-family-after-fire-loss?attribution_id=sl:eaf0c06d-6b07-491d-a0f9-0852b0552abd&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 18287,
-    "goal": 20095.604395604394,
-    "percent": 91,
-    "difference_from_goal": 1808.604395604394
+    "amount_raised": 18497,
+    "goal": 20105.434782608696,
+    "percent": 92,
+    "difference_from_goal": 1608.434782608696
+  },
+  {
+    "title": "Help Chevonne and Ed Rebuild After Fire",
+    "url": "https://www.gofundme.com/f/help-chevonne-and-ed-rebuild-after-fire?attribution_id=sl%3Aa561f982-bd72-4387-8573-55249ded6c40&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAabW-7z1i4StOzLSM9VcN8gulRn27s3gF_Cb9c5upEM7NnbHnHRUqBhKOxk_aem_xXsStJpoIBKu0mqc-UdzdQ",
+    "amount_raised": 25869,
+    "goal": 28118.478260869564,
+    "percent": 92,
+    "difference_from_goal": 2249.478260869564
   },
   {
     "title": "Help the Flores Family Recover from House Fire",
     "url": "https://www.gofundme.com/f/help-the-floresmayoral-family-recover-from-house-fire?attribution_id=sl:60aa742f-828c-445c-929c-047787d296a3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 32213,
-    "goal": 35014.13043478261,
-    "percent": 92,
-    "difference_from_goal": 2801.130434782608
+    "amount_raised": 32578,
+    "goal": 35030.10752688172,
+    "percent": 93,
+    "difference_from_goal": 2452.107526881722
   },
   {
     "title": "Support Horses Displaced by Altadena Blaze",
     "url": "https://www.gofundme.com/f/support-horses-displaced-by-altadena-blaze?attribution_id=sl:9a7f6be2-2bfd-44ac-b37a-0057604fd4ae&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 16600,
-    "goal": 18043.478260869564,
-    "percent": 92,
-    "difference_from_goal": 1443.478260869564
+    "amount_raised": 16730,
+    "goal": 17989.247311827956,
+    "percent": 93,
+    "difference_from_goal": 1259.2473118279559
+  },
+  {
+    "title": "Help the Flores Family Recover from House Fire",
+    "url": "https://www.gofundme.com/f/help-the-floresmayoral-family-recover-from-house-fire?attribution_id=sl:60aa742f-828c-445c-929c-047787d296a3&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 32578,
+    "goal": 35030.10752688172,
+    "percent": 93,
+    "difference_from_goal": 2452.107526881722
   },
   {
     "title": "Support Jamie's Recovery from Fire",
@@ -792,58 +1672,122 @@
     "difference_from_goal": 270.38297872340445
   },
   {
+    "title": "Jewel's Family Home Destroyed by Eaton Fire",
+    "url": "https://www.gofundme.com/f/jewels-family-home-destroyed-by-eaton-fire?attribution_id=sl:f9bc0d73-68a2-4296-8448-6d6a20435272&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 17351,
+    "goal": 18073.958333333332,
+    "percent": 96,
+    "difference_from_goal": 722.9583333333321
+  },
+  {
     "title": "Help the De La Torre Family Recover",
     "url": "https://www.gofundme.com/f/help-the-de-la-torre-family-recover?attribution_id=sl:cc6902b9-bab1-4ba4-bca1-571bf4c371b2&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 13148,
-    "goal": 13987.234042553191,
-    "percent": 94,
-    "difference_from_goal": 839.2340425531911
+    "amount_raised": 13398,
+    "goal": 13956.25,
+    "percent": 96,
+    "difference_from_goal": 558.25
   },
   {
     "title": "Help the De La Torre Family Recover",
     "url": "https://www.gofundme.com/f/help-the-de-la-torre-family-recover?attribution_id=sl:10ef9d42-55d4-43c4-a9fd-6308873fc81d&utm_campaign=pd_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 13148,
-    "goal": 13987.234042553191,
-    "percent": 94,
-    "difference_from_goal": 839.2340425531911
+    "amount_raised": 13398,
+    "goal": 13956.25,
+    "percent": 96,
+    "difference_from_goal": 558.25
   },
   {
     "title": "Jewel's Family Home Destroyed by Eaton Fire",
     "url": "https://www.gofundme.com/f/jewels-family-home-destroyed-by-eaton-fire?attribution_id=sl:f9bc0d73-68a2-4296-8448-6d6a20435272&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 17146,
-    "goal": 18048.42105263158,
-    "percent": 95,
-    "difference_from_goal": 902.4210526315801
+    "amount_raised": 17351,
+    "goal": 18073.958333333332,
+    "percent": 96,
+    "difference_from_goal": 722.9583333333321
+  },
+  {
+    "title": "Help the Ba\u00f1uelos Family Recover After Fire",
+    "url": "https://www.gofundme.com/f/help-the-banuelos-family-rebuild-after-fire?attribution_id=sl:5c40f3a7-46ee-4806-9a99-09377e515bbc&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 29670,
+    "goal": 29969.696969696968,
+    "percent": 99,
+    "difference_from_goal": 299.69696969696815
   },
   {
     "title": "Help Lourdes & Lily Rebuild After the Eaton Fire",
     "url": "https://www.gofundme.com/f/help-lourdes-lily-rebuild-after-the-eaton-fire?attribution_id=sl:5061743b-38ff-40b4-b5b0-73eca4c6f03a&utm_campaign=pd_ss_icons&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 25011,
-    "goal": 25011.0,
+    "amount_raised": 25071,
+    "goal": 25071.0,
     "percent": 100,
     "difference_from_goal": 0.0
   },
   {
     "title": "Help Erin and Tom Recover from the Altadena (Eaton) Fire",
     "url": "https://www.gofundme.com/f/help-erin-and-tom-recover-from-the-altadena-eaton-fire?attribution_id=sl%3A4bd184eb-51d1-4e1c-8118-2acafb464b0d&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&fbclid=PAZXh0bgNhZW0CMTEAAaaHggDbjW2iPYCf_G3_hJbZoFkv8o-bk2yoZ0BZd7620PzmliAKu9ZbYYo_aem_IGv_5pcvuICkowD-8vIGaA",
-    "amount_raised": 20432,
-    "goal": 20432.0,
+    "amount_raised": 21002,
+    "goal": 21002.0,
     "percent": 100,
     "difference_from_goal": 0.0
   },
   {
     "title": "Mr. Greer's Fire Recovery Fundraiser",
     "url": "https://www.gofundme.com/f/mr-greers-fire-recovery-fundraiser?attribution_id=sl:1a6e8dd4-6684-420e-8dae-209bf4774c24&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
-    "amount_raised": 14276,
-    "goal": 14276.0,
+    "amount_raised": 14356,
+    "goal": 14356.0,
     "percent": 100,
     "difference_from_goal": 0.0
   },
   {
     "title": "Support Alex Garcia and Family After Eaton Fire Loss",
     "url": "https://www.gofundme.com/f/support-alex-garcia-and-family-after-eaton-fire-loss?attribution_id=sl:cc8ade79-4766-4b55-ae80-a8fb1c220b7e&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
-    "amount_raised": 23425,
-    "goal": 23425.0,
+    "amount_raised": 23635,
+    "goal": 23635.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Help the Brunos through this Challenging Time",
+    "url": "https://www.gofundme.com/f/help-the-brunos-recover-from-devastating-fire?attribution_id=sl:b5a8ecb3-9aeb-4c1c-8214-4f0325b82faa&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 10600,
+    "goal": 10600.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Support Delgado Family After Fire",
+    "url": "https://www.gofundme.com/f/support-katie-delgados-family-after-fire?attribution_id=sl:2b84ffd2-773e-44bc-9a14-7c563b19060b&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 66303,
+    "goal": 66303.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Johnson Family Needs Your Support",
+    "url": "https://www.gofundme.com/f/johnson-family-needs-your-support?attribution_id=sl:3e764c17-0de8-4821-8127-f90fe63aef7c&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 26376,
+    "goal": 26376.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Assist Perez Kids: Fire Took Our Home",
+    "url": "https://www.gofundme.com/f/assist-perez-kids-fire-took-our-home",
+    "amount_raised": 6075,
+    "goal": 6075.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Mahki Clark\u2019s help",
+    "url": "https://www.gofundme.com/f/mahki-clarks-home-torn-down-by-fire?attribution_id=sl:ed5f3194-5e74-41a8-bd36-a3084377a2da&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=instagram_story",
+    "amount_raised": 2550,
+    "goal": 2550.0,
+    "percent": 100,
+    "difference_from_goal": 0.0
+  },
+  {
+    "title": "Help Lourdes & Lily Rebuild After the Eaton Fire",
+    "url": "https://www.gofundme.com/f/help-lourdes-lily-rebuild-after-the-eaton-fire?attribution_id=sl:5061743b-38ff-40b4-b5b0-73eca4c6f03a&utm_campaign=pd_ss_icons&utm_medium=customer&utm_source=copy_link",
+    "amount_raised": 25071,
+    "goal": 25071.0,
     "percent": 100,
     "difference_from_goal": 0.0
   }
