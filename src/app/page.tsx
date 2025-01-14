@@ -43,13 +43,13 @@ const Home: NextPage = () => {
           <p className="text-gray-600 text-center mb-6">
             This site provides a list of GoFundMe campaigns obtained from the
             Eaten Fire Linktree page, sorted and organized so you can easily see
-            how far each campaign is from it's goal and which campaigns need the
-            most help.
+            how far each campaign is from it&apos;s goal and which campaigns
+            need the most help.
           </p>
           <div className="text-center mb-6">
             <p className="text-gray-600">
-              If you don't see your campaign below, please make sure it is added
-              to the Linktree page here:{" "}
+              If you don&apos;t see your campaign below, please make sure it is
+              added to the Linktree page here:{" "}
             </p>
             <button className="text-center mb-6 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
               <Link href="https://linktr.ee/eatonfire?utm_source=linktree_profile_share&ltsid=1652c953-a469-4d55-931c-25ebd67231ee&fbclid=PAZXh0bgNhZW0CMTEAAaa7BAJRJtS6fb35--dQ1kclRbliWmUxczd_La-1HtOscRxMqOxm4B_G24o_aem_ht5RCsLH3IwSQrZJmI7UZQ">
