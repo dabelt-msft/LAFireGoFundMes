@@ -13,9 +13,30 @@ interface Campaign {
   difference_from_goal: number;
 }
 
+type SortHeader = "Amount Raised" | "Difference from Goal";
+type SortDirection = "Asc" | "Desc";
+type SortDirectionText = "Ascending" | "Descending";
+
 const Home: NextPage = () => {
   // State for campaigns
-  const [campaigns, setCampaigns] = useState<Campaign[]>(initialData);
+  const campaignsWithoutGoalsMet = initialData.filter((item) => {
+    return item.amount_raised < item.goal;
+  });
+
+  const [campaigns, setCampaigns] = useState<Campaign[]>(
+    campaignsWithoutGoalsMet
+  );
+  const [raisedDirectionText, setRaisedDirectionText] =
+    useState<SortDirection>("Desc");
+  const [raisedDirection, setRaisedDirection] = useState(true);
+
+  const [differenceDirectionText, setDifferenceDirectionText] =
+    useState<SortDirection>("Asc");
+  const [differenceDirection, setDifferenceDirection] = useState(true);
+
+  const [sortHeader, setSortHeader] = useState<SortHeader>("Amount Raised");
+  const [currentSortDirectionText, setCurrentSortDirectionText] =
+    useState<SortDirectionText>("Ascending");
 
   // Sorting function
   const sortCampaigns = (property: keyof Campaign, ascending: boolean) => {
@@ -25,6 +46,39 @@ const Home: NextPage = () => {
       return 0;
     });
     setCampaigns(sorted);
+  };
+
+  const getDirectionFullText = (newDirection: boolean) => {
+    return newDirection ? "Ascending" : "Descending";
+  };
+
+  const getAbbreviatedDirection = (newDirection: boolean) => {
+    return newDirection ? "Desc" : "Asc";
+  };
+
+  const getDirectionFromText = (isRaisedAmount: boolean) => {
+    if (isRaisedAmount) {
+      return raisedDirectionText === "Asc";
+    }
+    return differenceDirectionText === "Asc";
+  };
+
+  const onRaisedClicked = () => {
+    const newRaisedDirection = getDirectionFromText(true);
+    setRaisedDirection(newRaisedDirection);
+    setRaisedDirectionText(getAbbreviatedDirection(newRaisedDirection));
+    sortCampaigns("amount_raised", newRaisedDirection);
+    setSortHeader("Amount Raised");
+    setCurrentSortDirectionText(getDirectionFullText(newRaisedDirection));
+  };
+
+  const onDifferenceClicked = () => {
+    const newDifferenceDirection = getDirectionFromText(false);
+    setDifferenceDirection(newDifferenceDirection);
+    setDifferenceDirectionText(getAbbreviatedDirection(newDifferenceDirection));
+    sortCampaigns("difference_from_goal", newDifferenceDirection);
+    setSortHeader("Difference from Goal");
+    setCurrentSortDirectionText(getDirectionFullText(newDifferenceDirection));
   };
 
   useEffect(() => {
@@ -64,36 +118,42 @@ const Home: NextPage = () => {
           <div className="flex flex-col md:flex-row gap-2 mb-6 justify-center">
             <button
               className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
-              onClick={() => sortCampaigns("amount_raised", true)}
+              onClick={onRaisedClicked}
             >
-              Sort by Raised (Asc)
+              Sort by Amount Raised ({raisedDirectionText})
             </button>
-            <button
+            {/* <button
               className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
-              onClick={() => sortCampaigns("amount_raised", false)}
+              onClick={() => sortCampaigns("amount_raised", ra)}
             >
               Sort by Raised (Desc)
-            </button>
+            </button> */}
             <button
               className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
-              onClick={() => sortCampaigns("difference_from_goal", true)}
+              onClick={onDifferenceClicked}
             >
-              Sort by Difference (Asc)
+              Sort by Difference to Goal ({differenceDirectionText})
             </button>
-            <button
+            {/* <button
               className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
               onClick={() => sortCampaigns("difference_from_goal", false)}
             >
               Sort by Difference (Desc)
-            </button>
+            </button> */}
           </div>
           {/* Campaigns list */}
+          <h1>
+            Sorted by:{" "}
+            <strong>
+              {sortHeader} - {currentSortDirectionText}
+            </strong>
+          </h1>
           <ul className="space-y-4">
             {campaigns.map((campaign, index) => (
               <li key={index} className="p-4 border rounded shadow-sm">
                 <h2 className="text-xl font-semibold mb-1">{campaign.title}</h2>
                 <p className="mb-1">
-                  <strong>Raised:</strong> $
+                  <strong>Amount Raised:</strong> $
                   {campaign.amount_raised.toLocaleString()}{" "}
                   <span className="text-gray-500">
                     (Goal: ${campaign.goal.toLocaleString()})
