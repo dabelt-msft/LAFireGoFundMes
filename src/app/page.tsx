@@ -1,6 +1,6 @@
 "use client";
 
-import React, { use, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import type { NextPage } from "next";
 import initialData from "../data/gofundme-data.json";
 import Link from "next/link";
