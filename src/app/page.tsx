@@ -29,6 +29,7 @@ const Home: NextPage = () => {
 
   useEffect(() => {
     sortCampaigns("amount_raised", true);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
