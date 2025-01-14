@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { use, useEffect, useState } from "react";
 import type { NextPage } from "next";
 import initialData from "../data/gofundme-data.json";
 import Link from "next/link";
@@ -26,6 +26,10 @@ const Home: NextPage = () => {
     });
     setCampaigns(sorted);
   };
+
+  useEffect(() => {
+    sortCampaigns("amount_raised", true);
+  }, []);
 
   return (
     <div className="relative min-h-screen bg-gray-100">
