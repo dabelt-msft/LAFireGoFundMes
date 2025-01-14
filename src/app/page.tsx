@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import type { NextPage } from "next";
 import initialData from "../data/gofundme-data.json";
 import Link from "next/link";
@@ -31,6 +31,8 @@ const Home: NextPage = () => {
     sortCampaigns("amount_raised", true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  const lastUpdated = useRef(new Date("2025-01-14T05:01:11Z").toLocaleString());
 
   return (
     <div className="relative min-h-screen bg-gray-100">
@@ -118,9 +120,10 @@ const Home: NextPage = () => {
       {/* Floating footer */}
       <footer className="fixed bottom-0 left-0 w-full bg-gray-900 text-white py-3 px-6">
         <div className="max-w-3xl mx-auto flex flex-col md:flex-row items-center justify-between gap-2">
+          <div> Last Updated: {lastUpdated.current}</div>
           {/* Left side: your name, tagline, or branding */}
           <div className="font-semibold text-base">
-            Web dev help needed! Contact David Beltran via instagram
+            See contact info for questions
           </div>
 
           {/* Right side: contact links, social links, etc. */}
