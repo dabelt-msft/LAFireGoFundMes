@@ -82,7 +82,7 @@ const Home: NextPage = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const lastUpdated = useRef(new Date("2025-01-14T06:38:38Z").toLocaleString());
+  const lastUpdated = useRef(new Date("2025-01-14T16:53:57Z").toLocaleString());
 
   return (
     <div className="relative min-h-screen bg-gray-100">
