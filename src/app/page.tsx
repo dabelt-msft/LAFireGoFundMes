@@ -28,11 +28,9 @@ const Home: NextPage = () => {
   );
   const [raisedDirectionText, setRaisedDirectionText] =
     useState<SortDirection>("Desc");
-  const [raisedDirection, setRaisedDirection] = useState(true);
 
   const [differenceDirectionText, setDifferenceDirectionText] =
     useState<SortDirection>("Asc");
-  const [differenceDirection, setDifferenceDirection] = useState(true);
 
   const [sortHeader, setSortHeader] = useState<SortHeader>("Amount Raised");
   const [currentSortDirectionText, setCurrentSortDirectionText] =
@@ -65,7 +63,6 @@ const Home: NextPage = () => {
 
   const onRaisedClicked = () => {
     const newRaisedDirection = getDirectionFromText(true);
-    setRaisedDirection(newRaisedDirection);
     setRaisedDirectionText(getAbbreviatedDirection(newRaisedDirection));
     sortCampaigns("amount_raised", newRaisedDirection);
     setSortHeader("Amount Raised");
@@ -74,7 +71,6 @@ const Home: NextPage = () => {
 
   const onDifferenceClicked = () => {
     const newDifferenceDirection = getDirectionFromText(false);
-    setDifferenceDirection(newDifferenceDirection);
     setDifferenceDirectionText(getAbbreviatedDirection(newDifferenceDirection));
     sortCampaigns("difference_from_goal", newDifferenceDirection);
     setSortHeader("Difference from Goal");
