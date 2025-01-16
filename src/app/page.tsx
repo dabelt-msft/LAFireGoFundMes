@@ -23,8 +23,6 @@ const Home: NextPage = () => {
     return item.amount_raised < item.goal;
   });
 
-  console.log(campaignsWithoutGoalsMet.length, "campaignsWithoutGoalsMet");
-
   const [campaigns, setCampaigns] = useState<Campaign[]>(
     campaignsWithoutGoalsMet
   );
@@ -84,7 +82,7 @@ const Home: NextPage = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const lastUpdated = useRef(new Date("2025-01-15T06:55:11Z").toLocaleString());
+  const lastUpdated = useRef(new Date("2025-01-16T19:26:41Z").toLocaleString());
 
   return (
     <div className="relative min-h-screen bg-gray-100">
