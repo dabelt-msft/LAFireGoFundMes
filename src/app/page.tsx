@@ -19,24 +19,7 @@ type SortDirectionText = "Ascending" | "Descending";
 
 const Home: NextPage = () => {
   // State for campaigns
-  const campaignsWithoutGoalsMet = initialData.filter((item) => {
-    return item.amount_raised < item.goal;
-  });
 
-  const [campaigns, setCampaigns] = useState<Campaign[]>(
-    campaignsWithoutGoalsMet
-  );
-  const [raisedDirectionText, setRaisedDirectionText] =
-    useState<SortDirection>("Desc");
-
-  const [differenceDirectionText, setDifferenceDirectionText] =
-    useState<SortDirection>("Asc");
-
-  const [sortHeader, setSortHeader] = useState<SortHeader>("Amount Raised");
-  const [currentSortDirectionText, setCurrentSortDirectionText] =
-    useState<SortDirectionText>("Ascending");
-
-  // Sorting function
   const sortCampaigns = (
     camps: Campaign[],
     property: keyof Campaign,
@@ -47,13 +30,31 @@ const Home: NextPage = () => {
       if (a[property] > b[property]) return ascending ? 1 : -1;
       return 0;
     });
-    setCampaigns(sorted);
+    return sorted;
   };
 
-  useEffect(() => {
-    sortCampaigns(campaignsWithoutGoalsMet, "amount_raised", true);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  const campaignsWithoutGoalsMet = initialData.filter((item) => {
+    return item.amount_raised < item.goal;
+  });
+
+  const initialSortedCampaigns = sortCampaigns(
+    campaignsWithoutGoalsMet,
+    "amount_raised",
+    true
+  );
+
+  const [campaigns, setCampaigns] = useState<Campaign[]>(
+    initialSortedCampaigns
+  );
+  const [raisedDirectionText, setRaisedDirectionText] =
+    useState<SortDirection>("Desc");
+
+  const [differenceDirectionText, setDifferenceDirectionText] =
+    useState<SortDirection>("Asc");
+
+  const [sortHeader, setSortHeader] = useState<SortHeader>("Amount Raised");
+  const [currentSortDirectionText, setCurrentSortDirectionText] =
+    useState<SortDirectionText>("Ascending");
 
   const [sortDirectionBoolean, setSortDirectionBoolean] =
     useState<boolean>(true);
@@ -87,16 +88,20 @@ const Home: NextPage = () => {
       setShowFullyFundedText("Show");
       setCampaigns(campaignsWithoutGoalsMet);
       setShowFullyFunded(false);
-      sortCampaigns(
-        campaignsWithoutGoalsMet,
-        sort_argument,
-        sortDirectionBoolean
+      setCampaigns(
+        sortCampaigns(
+          campaignsWithoutGoalsMet,
+          sort_argument,
+          sortDirectionBoolean
+        )
       );
     } else {
       setShowFullyFundedText("Hide");
       setCampaigns(campaigns);
       setShowFullyFunded(true);
-      sortCampaigns(initialData, sort_argument, sortDirectionBoolean);
+      setCampaigns(
+        sortCampaigns(initialData, sort_argument, sortDirectionBoolean)
+      );
     }
   };
 
@@ -104,7 +109,7 @@ const Home: NextPage = () => {
     const newRaisedDirection = getDirectionFromText(true);
     setRaisedDirectionText(getAbbreviatedDirection(newRaisedDirection));
     setSortArgument("amount_raised");
-    sortCampaigns(campaigns, "amount_raised", newRaisedDirection);
+    setCampaigns(sortCampaigns(campaigns, "amount_raised", newRaisedDirection));
     setSortHeader("Amount Raised");
     setCurrentSortDirectionText(getDirectionFullText(newRaisedDirection));
   };
@@ -113,7 +118,9 @@ const Home: NextPage = () => {
     const newDifferenceDirection = getDirectionFromText(false);
     setDifferenceDirectionText(getAbbreviatedDirection(newDifferenceDirection));
     setSortArgument("difference_from_goal");
-    sortCampaigns(campaigns, "difference_from_goal", newDifferenceDirection);
+    setCampaigns(
+      sortCampaigns(campaigns, "difference_from_goal", newDifferenceDirection)
+    );
     setSortHeader("Difference from Goal");
     setCurrentSortDirectionText(getDirectionFullText(newDifferenceDirection));
   };
