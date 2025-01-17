@@ -37,8 +37,12 @@ const Home: NextPage = () => {
     useState<SortDirectionText>("Ascending");
 
   // Sorting function
-  const sortCampaigns = (property: keyof Campaign, ascending: boolean) => {
-    const sorted = [...campaigns].sort((a, b) => {
+  const sortCampaigns = (
+    camps: Campaign[],
+    property: keyof Campaign,
+    ascending: boolean
+  ) => {
+    const sorted = [...camps].sort((a, b) => {
       if (a[property] < b[property]) return ascending ? -1 : 1;
       if (a[property] > b[property]) return ascending ? 1 : -1;
       return 0;
@@ -46,7 +50,12 @@ const Home: NextPage = () => {
     setCampaigns(sorted);
   };
 
+  const [sortDirectionBoolean, setSortDirectionBoolean] =
+    useState<boolean>(true);
+
   const getDirectionFullText = (newDirection: boolean) => {
+    const value = newDirection ?? false;
+    setSortDirectionBoolean(value);
     return newDirection ? "Ascending" : "Descending";
   };
 
@@ -61,10 +70,36 @@ const Home: NextPage = () => {
     return differenceDirectionText === "Asc";
   };
 
+  const [showFullyFunded, setShowFullyFunded] = useState<boolean>(false);
+  const [showFullyFundedText, setShowFullyFundedText] =
+    useState<string>("Show");
+
+  const [sort_argument, setSortArgument] =
+    useState<keyof Campaign>("amount_raised");
+
+  const onShowFullyFundedCampaignsClicked = () => {
+    if (showFullyFunded) {
+      setShowFullyFundedText("Show");
+      setCampaigns(campaignsWithoutGoalsMet);
+      setShowFullyFunded(false);
+      sortCampaigns(
+        campaignsWithoutGoalsMet,
+        sort_argument,
+        sortDirectionBoolean
+      );
+    } else {
+      setShowFullyFundedText("Hide");
+      setCampaigns(campaigns);
+      setShowFullyFunded(true);
+      sortCampaigns(initialData, sort_argument, sortDirectionBoolean);
+    }
+  };
+
   const onRaisedClicked = () => {
     const newRaisedDirection = getDirectionFromText(true);
     setRaisedDirectionText(getAbbreviatedDirection(newRaisedDirection));
-    sortCampaigns("amount_raised", newRaisedDirection);
+    setSortArgument("amount_raised");
+    sortCampaigns(campaigns, "amount_raised", newRaisedDirection);
     setSortHeader("Amount Raised");
     setCurrentSortDirectionText(getDirectionFullText(newRaisedDirection));
   };
@@ -72,17 +107,13 @@ const Home: NextPage = () => {
   const onDifferenceClicked = () => {
     const newDifferenceDirection = getDirectionFromText(false);
     setDifferenceDirectionText(getAbbreviatedDirection(newDifferenceDirection));
-    sortCampaigns("difference_from_goal", newDifferenceDirection);
+    setSortArgument("difference_from_goal");
+    sortCampaigns(campaigns, "difference_from_goal", newDifferenceDirection);
     setSortHeader("Difference from Goal");
     setCurrentSortDirectionText(getDirectionFullText(newDifferenceDirection));
   };
 
-  useEffect(() => {
-    sortCampaigns("amount_raised", true);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
-
-  const lastUpdated = useRef(new Date("2025-01-16T19:26:41Z").toLocaleString());
+  const lastUpdated = useRef(new Date("2025-01-17T00:23:41Z").toLocaleString());
 
   return (
     <div className="relative min-h-screen bg-gray-100">
@@ -129,6 +160,12 @@ const Home: NextPage = () => {
               onClick={onDifferenceClicked}
             >
               Sort by Difference to Goal ({differenceDirectionText})
+            </button>
+            <button
+              className="bg-orange-500 hover:bg-orange-600 text-white py-2 px-4 rounded"
+              onClick={onShowFullyFundedCampaignsClicked}
+            >
+              {showFullyFundedText} Fully Funded Campaigns
             </button>
             {/* <button
               className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded"
